@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hannes Assarsson//70.3 Training Calendar//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:70.3 Träningsschema
+X-WR-TIMEZONE:Europe/Stockholm
+BEGIN:VTIMEZONE
+TZID:Europe/Stockholm
+X-LIC-LOCATION:Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:training-20260921-0830@hannesassarsson
+DTSTAMP:20260920T200000Z
+DTSTART;TZID=Europe/Stockholm:20260921T083000
+DTEND;TZID=Europe/Stockholm:20260921T101000
+SUMMARY:Intervallöpning
+DESCRIPTION:3 x 800 m @ ca 70 %, vila 3 min; 400 m @ ca 90 %, vila 2 min; 200 m @ 95–100 %, vila 2 min.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20260922-1200@hannesassarsson
+DTSTAMP:20260920T200000Z
+DTSTART;TZID=Europe/Stockholm:20260922T120000
+DTEND;TZID=Europe/Stockholm:20260922T123000
+SUMMARY:Löpning 5 km lunch
+DESCRIPTION:Lugn 5 km lunchrunda. Fokus: energi och bra känsla, ingen pace-jakt.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20260922-1700@hannesassarsson
+DTSTAMP:20260920T200000Z
+DTSTART;TZID=Europe/Stockholm:20260922T170000
+DTEND;TZID=Europe/Stockholm:20260922T180000
+SUMMARY:Cykling – valfritt
+DESCRIPTION:45–60 min lugn cykling om vädret är bra. Bonuspass – skippa vid dåligt väder.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20260923-1700@hannesassarsson
+DTSTAMP:20260920T200000Z
+DTSTART;TZID=Europe/Stockholm:20260923T170000
+DTEND;TZID=Europe/Stockholm:20260923T180000
+SUMMARY:Simning – ca 2300 m
+DESCRIPTION:Ca 2300 m / 60 min enligt plan: uppvärmning, aerob bas, huvudpass och finisher.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20260924-1200@hannesassarsson
+DTSTAMP:20260920T200000Z
+DTSTART;TZID=Europe/Stockholm:20260924T120000
+DTEND;TZID=Europe/Stockholm:20260924T123000
+SUMMARY:Löpning 5 km lunch
+DESCRIPTION:Lugn 5 km lunchrunda. Energi och skön känsla.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20260924-1700@hannesassarsson
+DTSTAMP:20260920T200000Z
+DTSTART;TZID=Europe/Stockholm:20260924T170000
+DTEND;TZID=Europe/Stockholm:20260924T180000
+SUMMARY:Cykling – valfritt
+DESCRIPTION:30–60 min lätt cykling om vädret är bra. Bonuspass – skippa vid dåligt väder.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20260925-1700@hannesassarsson
+DTSTAMP:20260920T200000Z
+DTSTART;TZID=Europe/Stockholm:20260925T170000
+DTEND;TZID=Europe/Stockholm:20260925T181500
+SUMMARY:CrossFit – Pass 2
+DESCRIPTION:A: 21-15-9 thrusters 50/35 + C2B + 20 m handstand walk efter varje siffra. B: AMRAP 9 min – 3 rollovers + 30 DU. C: AMRAP 12 min – 9 handclap push-ups + 6 burpee box jump over + 3 D-ball clean over shoulder 70/50.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20260927-1900@hannesassarsson
+DTSTAMP:20260920T200000Z
+DTSTART;TZID=Europe/Stockholm:20260927T190000
+DTEND;TZID=Europe/Stockholm:20260927T201000
+SUMMARY:Löpning 8–12 km
+DESCRIPTION:Lugn aerob löpning efter hemresan. Sikta på 8–12 km. Ingen fartjakt; öka bara om benen känns bra.
+END:VEVENT
+END:VCALENDAR
