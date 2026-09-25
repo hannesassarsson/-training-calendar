@@ -10,118 +10,118 @@ UID:training-20260921-0830@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260921T083000
 DTEND;TZID=Europe/Stockholm:20260921T101000
 SUMMARY:Intervallöpning
-DESCRIPTION:3 x (800 m kontrollerat + 3 min vila; 400 m hårt + 2 min vila; 200 m snabbt + 2 min vila).
+DESCRIPTION:3 x (800 m kontrollerat + 3 min vila; 400 m hårt + 2 min vila; 200 m snabbt + 2 min vila). GENOMFÖRT.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260922-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260922T120000
 DTEND;TZID=Europe/Stockholm:20260922T123000
 SUMMARY:Löpning 5 km lunch
-DESCRIPTION:Lugn 5 km lunchrunda. Energi och bra känsla.
+DESCRIPTION:Lugn 5 km lunchrunda. GENOMFÖRT.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260922-1750@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260922T175000
 DTEND;TZID=Europe/Stockholm:20260922T185000
 SUMMARY:Cykling - 25 km lugnt
-DESCRIPTION:25 km och ca 60 min lugnt och kontrollerat.
+DESCRIPTION:25 km och ca 60 min lugnt och kontrollerat. GENOMFÖRT.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260923-1300@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260923T130000
 DTEND;TZID=Europe/Stockholm:20260923T133000
 SUMMARY:Löpning 5 km lunch
-DESCRIPTION:Lugn 5 km lunchrunda. Ingen fartjakt.
+DESCRIPTION:Lugn 5 km lunchrunda. GENOMFÖRT.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260923-1830@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260923T183000
 DTEND;TZID=Europe/Stockholm:20260923T191500
 SUMMARY:Simning - teknik och lugn distans
-DESCRIPTION:Fokus på avslappning, andning och teknik. Genomfört: 1175 m.
+DESCRIPTION:Fokus på avslappning, andning och teknik. GENOMFÖRT: 1175 m.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260924-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260924T120000
 DTEND;TZID=Europe/Stockholm:20260924T123000
 SUMMARY:Löpning 5 km lunch
-DESCRIPTION:Snackrunda med Anders. Lugn mängdträning. Genomfört: 5,01 km @ 5:22/km.
+DESCRIPTION:Snackrunda med Anders. GENOMFÖRT: 5,01 km @ 5:22/km.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260925-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260925T120000
 DTEND;TZID=Europe/Stockholm:20260925T123000
-SUMMARY:Löpning 5 km lunch
-DESCRIPTION:Lugn 5 km före Motala. Ingen fartjakt.
+SUMMARY:Vila - känning i underben/fotled
+DESCRIPTION:Ingen träning idag på grund av lätt överbelastningskänning där foten möter underbenet. Endast lugn promenad om det känns bra.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260926-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260926T100000
 DTEND;TZID=Europe/Stockholm:20260926T110000
-SUMMARY:Löpning 6-10 km - valfritt
-DESCRIPTION:Ta med löparskorna till Motala. 6-10 km lugnt om benen känns bra. Skippa om du är sliten.
+SUMMARY:Vila / promenad
+DESCRIPTION:Ingen löpning. Lugn promenad endast om helt bekväm. Ingen träning som provocerar området.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260927-1900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260927T190000
 DTEND;TZID=Europe/Stockholm:20260927T191500
-SUMMARY:Vila - återhämtning
-DESCRIPTION:Ingen planerad träning. Känn efter efter Motalahelgen.
+SUMMARY:Återhämtning - checka benet
+DESCRIPTION:Ingen planerad löpning. Känn efter underben/fotled. Återgå till träning först när gång och vardagsrörelse känns normalt och smärtfritt.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260928-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260928T100000
 DTEND;TZID=Europe/Stockholm:20260928T111500
-SUMMARY:Cykling 60-75 min
-DESCRIPTION:Lugn aerob cykling. Utomhus om vädret är bra, annars trainer om den finns. RPE 2-3 av 10.
+SUMMARY:Cykling 60-75 min - endast smärtfritt
+DESCRIPTION:Lugn aerob cykling endast om underben/fotled känns helt bra. Avbryt om området provoceras.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260929-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260929T120000
 DTEND;TZID=Europe/Stockholm:20260929T123000
-SUMMARY:Löpning 5 km lunch
-DESCRIPTION:Lugn 5 km. Fokus på kontinuitet och bra känsla.
+SUMMARY:Löpning 5 km - endast om smärtfritt
+DESCRIPTION:Endast om gång, vardag och lätt testjogg är helt smärtfria. Annars byt till vila eller simning.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260930-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260930T120000
 DTEND;TZID=Europe/Stockholm:20260930T123000
-SUMMARY:Löpning 5 km lunch
-DESCRIPTION:Lugn 5 km. Ingen fartjakt.
+SUMMARY:Löpning 5 km - endast om smärtfritt
+DESCRIPTION:Mycket lugnt och endast om underben/fotled är helt symtomfri.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260930-1730@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260930T173000
 DTEND;TZID=Europe/Stockholm:20260930T183000
 SUMMARY:Simning - teknik ca 1600-1800 m
-DESCRIPTION:Fokus pa avslappnad kropp, utandning under vattnet, rotation och lugn crawl.
+DESCRIPTION:Teknikpass. Fokus på avslappnad kropp, utandning under vattnet, rotation och lugn crawl. Bra alternativ om löpning behöver vänta.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261001-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261001T120000
 DTEND;TZID=Europe/Stockholm:20261001T130000
-SUMMARY:Löpintervaller - 4 x 1 km
-DESCRIPTION:Uppvärmning 12-15 min. 4 x 1 km @ ca 4:25-4:35/km, 2 min lätt jogg mellan. Avsluta med 8-10 min nedjogg.
+SUMMARY:Löpintervaller - villkorat
+DESCRIPTION:4 x 1 km @ ca 4:25-4:35/km med 2 min lätt jogg endast om underben/fotled varit helt symtomfri och lätt löpning tidigare i veckan fungerat. Annars byt till lugn simning/cykling eller vila.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261002-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261002T120000
 DTEND;TZID=Europe/Stockholm:20261002T123000
-SUMMARY:Löpning 5 km lunch
-DESCRIPTION:Mycket lugn 5 km efter torsdagens intervaller. RPE 2-3 av 10.
+SUMMARY:Löpning 5 km - endast om smärtfritt
+DESCRIPTION:Mycket lugn 5 km efter torsdagens intervaller endast om området är symtomfritt.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261003-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261003T100000
 DTEND;TZID=Europe/Stockholm:20261003T113000
 SUMMARY:Cykling 75-90 min
-DESCRIPTION:Lugn aerob cykling. Utomhus om vädret är bra. Om trainer finns: lugn Zwift eller Z2.
+DESCRIPTION:Lugn aerob cykling om underben/fotled är helt okej. Annars vila eller simning.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261004-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261004T100000
 DTEND;TZID=Europe/Stockholm:20261004T113000
-SUMMARY:Långpass löpning 12-14 km
-DESCRIPTION:Lugn aerob distans. Börja kontrollerat och håll dig bekvämt hela vägen. Ingen fartjakt.
+SUMMARY:Långpass löpning 12-14 km - villkorat
+DESCRIPTION:Endast om underben/fotled varit symtomfritt och tidigare löpning fungerat utan reaktion. Börja lugnt. Vid kvarvarande känning: ingen löpning.
 END:VEVENT
 END:VCALENDAR
