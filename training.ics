@@ -64,64 +64,71 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20260927-1900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260927T190000
-DTEND;TZID=Europe/Stockholm:20260927T191500
-SUMMARY:Återhämtning - checka benet
-DESCRIPTION:Ingen planerad löpning. Känn efter underben/fotled. Återgå till träning först när gång och vardagsrörelse känns normalt och smärtfritt.
+DTEND;TZID=Europe/Stockholm:20260927T200000
+SUMMARY:Löpning 9,25 km - GENOMFÖRT
+DESCRIPTION:48:38 och 5:16/km. Kändes lätt och fint efter bilresan. Tid ungefärlig.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20260928-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20260928T100000
-DTEND;TZID=Europe/Stockholm:20260928T111500
-SUMMARY:Cykling 60-75 min - endast smärtfritt
-DESCRIPTION:Lugn aerob cykling endast om underben/fotled känns helt bra. Avbryt om området provoceras.
+UID:training-20260928-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20260928T120000
+DTEND;TZID=Europe/Stockholm:20260928T123000
+SUMMARY:Lunchlöpning 5 km - lätt
+DESCRIPTION:Lugn energirunda efter söndagens 9,25 km. Känn efter underben/fotled och håll igen på tempot.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260929-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260929T120000
 DTEND;TZID=Europe/Stockholm:20260929T123000
-SUMMARY:Löpning 5 km - endast om smärtfritt
-DESCRIPTION:Endast om gång, vardag och lätt testjogg är helt smärtfria. Annars byt till vila eller simning.
+SUMMARY:Lunchlöpning 5 km - lätt
+DESCRIPTION:Vanlig energirunda. Avstå om underben/fotled reagerar.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20260929-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20260929T180000
+DTEND;TZID=Europe/Stockholm:20260929T190000
+SUMMARY:Wahoo-premiär - Zwift 45-60 min
+DESCRIPTION:Montera Scott och para CORE 2, Cog/Click och Polar H9. 10 min lugnt, 25-35 min jämnt lätt, 5-10 min nedvarvning. Ingen FTP-test. Kvällstid preliminär.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260930-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260930T120000
 DTEND;TZID=Europe/Stockholm:20260930T123000
-SUMMARY:Löpning 5 km - endast om smärtfritt
-DESCRIPTION:Mycket lugnt och endast om underben/fotled är helt symtomfri.
+SUMMARY:Lunchlöpning 5 km - lätt
+DESCRIPTION:Lätt flytpass före kvällens simning. Anpassa vid känning.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20260930-1730@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20260930T173000
 DTEND;TZID=Europe/Stockholm:20260930T183000
-SUMMARY:Simning - teknik ca 1600-1800 m
-DESCRIPTION:Teknikpass. Fokus på avslappnad kropp, utandning under vattnet, rotation och lugn crawl. Bra alternativ om löpning behöver vänta.
+SUMMARY:Simning teknik 1500-1700 m
+DESCRIPTION:Fokus på avslappning, utandning under vatten, rotation och glid. Kvällstid preliminär.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261001-1200@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261001T120000
-DTEND;TZID=Europe/Stockholm:20261001T130000
-SUMMARY:Löpintervaller - villkorat
-DESCRIPTION:4 x 1 km @ ca 4:25-4:35/km med 2 min lätt jogg endast om underben/fotled varit helt symtomfri och lätt löpning tidigare i veckan fungerat. Annars byt till lugn simning/cykling eller vila.
+UID:training-20261001-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261001T180000
+DTEND;TZID=Europe/Stockholm:20261001T190000
+SUMMARY:Trainer 60 min - kontrollerat
+DESCRIPTION:10 min uppvärmning, 3 x 8 min stabil aerob ansträngning med 4 min lätt mellan, nedvarvning. Ingen maxinsats. Kvällstid preliminär.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261002-1200@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261002T120000
-DTEND;TZID=Europe/Stockholm:20261002T123000
-SUMMARY:Löpning 5 km - endast om smärtfritt
-DESCRIPTION:Mycket lugn 5 km efter torsdagens intervaller endast om området är symtomfritt.
+UID:training-20261002-0900@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261002T090000
+DTEND;TZID=Europe/Stockholm:20261002T094000
+SUMMARY:Löpning 5-7 km före Göteborg
+DESCRIPTION:Ledig fredag: lugnt morgon-/förmiddagspass innan resan och oktoberfesten. Tid preliminär.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261003-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261003T100000
-DTEND;TZID=Europe/Stockholm:20261003T113000
-SUMMARY:Cykling 75-90 min
-DESCRIPTION:Lugn aerob cykling om underben/fotled är helt okej. Annars vila eller simning.
+DTEND;TZID=Europe/Stockholm:20261003T101500
+SUMMARY:Göteborg - träningsfri dag
+DESCRIPTION:Oktoberfesthelg. Ingen träning planerad.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261004-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261004T100000
-DTEND;TZID=Europe/Stockholm:20261004T113000
-SUMMARY:Långpass löpning 12-14 km - villkorat
-DESCRIPTION:Endast om underben/fotled varit symtomfritt och tidigare löpning fungerat utan reaktion. Börja lugnt. Vid kvarvarande känning: ingen löpning.
+UID:training-20261004-1900@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261004T190000
+DTEND;TZID=Europe/Stockholm:20261004T200000
+SUMMARY:Valfritt lätt pass efter Göteborg
+DESCRIPTION:Endast om hemma och pigg: 45-60 min lätt trainer ELLER 5-7 km lätt löpning. Annars vila. Tid preliminär.
 END:VEVENT
 END:VCALENDAR
