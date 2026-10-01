@@ -113,9 +113,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261002-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261002T090000
-DTEND;TZID=Europe/Stockholm:20261002T094000
-SUMMARY:Löpning 5-7 km före Göteborg
-DESCRIPTION:Ledig fredag: lugnt morgon-/förmiddagspass innan resan och oktoberfesten. Tid preliminär.
+DTEND;TZID=Europe/Stockholm:20261002T101500
+SUMMARY:KICKR - 60-75 min lugnt aerobiskt
+DESCRIPTION:Ingen lunchlöpning. Kör KICKR före Göteborg: 10-15 min uppvärmning, 40-50 min stabilt lugnt/aerobt arbete, 10-15 min nedvarvning. Ingen maxinsats. Anpassa efter morgonens känsla.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261003-1000@hannesassarsson
