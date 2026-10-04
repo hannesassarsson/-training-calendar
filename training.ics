@@ -131,4 +131,81 @@ DTEND;TZID=Europe/Stockholm:20261004T200000
 SUMMARY:Valfritt lätt pass efter Göteborg
 DESCRIPTION:Endast om hemma och pigg: 45-60 min lätt trainer ELLER 5-7 km lätt löpning. Annars vila. Tid preliminär.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261005-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261005T120000
+DTEND;TZID=Europe/Stockholm:20261005T123000
+SUMMARY:Lunchlöpning 5 km - lätt
+DESCRIPTION:5 km lugn energirunda. Håll igen eftersom kvällens CrossFit är hård.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261005-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261005T180000
+DTEND;TZID=Europe/Stockholm:20261005T193000
+SUMMARY:CrossFit - Pass 2
+DESCRIPTION:A: Back squat 2 reps x 5. B: 2 push press + 2 jerk any how. C: 12 DB snatch 22,5/15 + 12 box jump over + 12 STOH 60/40, AMRAP 13 min. Vila 5-10 min. Sedan 7 min AMRAP: 20 m OH DB lunge, singel DB 22,5/15 + 20 m handstand walk. Hårt pass men inte maxa styrkedelen.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261006-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261006T120000
+DTEND;TZID=Europe/Stockholm:20261006T130500
+SUMMARY:Löpintervaller - fart
+DESCRIPTION:Ca 2 km lugn uppvärmning + 3-4 x 20 sek stegringar. Sedan 5 x 1 km @ ca 4:35-4:50/km med 2 min lätt jogg mellan. 1-2 km nedjogg. Totalt ca 9-10 km. Hårt men kontrollerat; första intervallen ska kännas kontrollerad.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261007-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261007T120000
+DTEND;TZID=Europe/Stockholm:20261007T123000
+SUMMARY:Lunchlöpning 5 km - mycket lätt
+DESCRIPTION:5 km mycket lugnt återhämtnings-/energi-pass efter tisdagens intervaller. Ingen fartjakt.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261007-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261007T180000
+DTEND;TZID=Europe/Stockholm:20261007T190000
+SUMMARY:Simning - 60 min
+DESCRIPTION:Ca 400 m lugnt. 6 x 50 m teknik. 8 x 100 m ganska hårt med 15-20 sek vila. 4 x 200 m stabilt tempo med ca 30 sek vila. 200 m lugnt. Anpassa total distans efter nivå och känsla.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261008-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261008T120000
+DTEND;TZID=Europe/Stockholm:20261008T123000
+SUMMARY:Lunchlöpning 5 km - lätt
+DESCRIPTION:5 km lugn energirunda. Ska kännas lätt inför kvällens cykelkvalitet.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261008-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261008T180000
+DTEND;TZID=Europe/Stockholm:20261008T191500
+SUMMARY:KICKR - tröskel/tempo
+DESCRIPTION:60-75 min totalt. 15 min uppvärmning. 4 x 8 min @ ca 85-95 % FTP, 4 min lätt mellan. 10-15 min nedvarvning. Hårt kontrollerat, inte max.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261009-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261009T120000
+DTEND;TZID=Europe/Stockholm:20261009T123000
+SUMMARY:Lunchlöpning 5 km - lätt
+DESCRIPTION:5 km lugnt och avslappnat. Ingen fartjakt; spara benen till kvällens CrossFit.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261009-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261009T180000
+DTEND;TZID=Europe/Stockholm:20261009T193000
+SUMMARY:CrossFit - Pass 2
+DESCRIPTION:A: Varannan minut x 8: 2 squat snatch, så avslappnat som möjligt med fin tajming. B: 8 thrusters 50/35 + 6 DBall clean over shoulder 60/40 + 4 ring muscle-up, AMRAP 9 min. Vila 5-10 min. Sedan 45 sek Echo Bike MAX x 6, 3 min vila mellan.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261010-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261010T100000
+DTEND;TZID=Europe/Stockholm:20261010T120000
+SUMMARY:KICKR - långpass
+DESCRIPTION:90-120 min aerobiskt/Z2. Jämnt och kontrollerat, prattempo. Ingen maxning. Börja träna på energi/vätska under passet.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261011-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261011T100000
+DTEND;TZID=Europe/Stockholm:20261011T113000
+SUMMARY:Långpass löpning 12-14 km
+DESCRIPTION:Lugnt uthållighetspass. Håll jämn lätt ansträngning. Om benen känns riktigt bra kan sista 2-3 km gå något snabbare, men ingen maxning.
+END:VEVENT
 END:VCALENDAR
