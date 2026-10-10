@@ -202,11 +202,11 @@ SUMMARY:KICKR - långpass
 DESCRIPTION:90-120 min aerobiskt/Z2. Jämnt och kontrollerat, prattempo. Ingen maxning. Börja träna på energi/vätska under passet.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261011-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261011T1000
-DTEND;TZID=Europe/Stockholm:20261011T1130
-SUMMARY:Långpass löpning 12-14 km
-DESCRIPTION:Lugnt uthållighetspass. Håll jämn lätt ansträngning. Om benen känns riktigt bra kan sista 2-3 km gå något snabbare, men ingen maxning.
+UID:training-20261011-1430@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261011T143000
+DTEND;TZID=Europe/Stockholm:20261011T151500
+SUMMARY:Zwift - lätt 45 min
+DESCRIPTION:Lätt och avslappnat\, puls under ca 130. Ersätter långpasset eftersom återhämtningen är låg. Hoppa över och vila om kroppen känns tung. Efter jobb 06:45-12:45.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261013-0900@hannesassarsson
