@@ -208,4 +208,102 @@ DTEND;TZID=Europe/Stockholm:20261011T1130
 SUMMARY:Långpass löpning 12-14 km
 DESCRIPTION:Lugnt uthållighetspass. Håll jämn lätt ansträngning. Om benen känns riktigt bra kan sista 2-3 km gå något snabbare, men ingen maxning.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261013-0900@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261013T090000
+DTEND;TZID=Europe/Stockholm:20261013T094500
+SUMMARY:Zwift - lugnt 45 min
+DESCRIPTION:Jämnt tryck där du kan prata. Puls under ca 140.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261013-1700@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261013T170000
+DTEND;TZID=Europe/Stockholm:20261013T180000
+SUMMARY:CrossFit
+DESCRIPTION:Tiden är en platshållare\, välj den klass som passar. Kontrollerat denna vecka.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261014-0900@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261014T090000
+DTEND;TZID=Europe/Stockholm:20261014T094000
+SUMMARY:Löpning - lugnt 40 min
+DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261014-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261014T180000
+DTEND;TZID=Europe/Stockholm:20261014T184500
+SUMMARY:Simning - teknik 45 min
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261015-1745@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261015T174500
+DTEND;TZID=Europe/Stockholm:20261015T182000
+SUMMARY:Löpning - lugnt 35 min
+DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Efter jobb 07:00-17:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261017-1430@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261017T143000
+DTEND;TZID=Europe/Stockholm:20261017T151500
+SUMMARY:Simning - teknik 45 min
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller. Efter jobb 06:45-12:45.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261018-0830@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261018T083000
+DTEND;TZID=Europe/Stockholm:20261018T093000
+SUMMARY:Zwift - lugnt 60 min
+DESCRIPTION:Jämnt tryck där du kan prata. Puls under ca 140. Före jobb 12:15-18:15.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261019-0900@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261019T090000
+DTEND;TZID=Europe/Stockholm:20261019T094000
+SUMMARY:Löpning - lugnt 40 min
+DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261019-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261019T180000
+DTEND;TZID=Europe/Stockholm:20261019T184500
+SUMMARY:Simning - teknik 45 min
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261020-0900@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261020T090000
+DTEND;TZID=Europe/Stockholm:20261020T095000
+SUMMARY:Zwift - ramptest FTP
+DESCRIPTION:Zwifts ramptest inklusive uppvärmning och nedvarvning. Skjut några dagar om HRV fortfarande är obalanserad på morgonen.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261020-1700@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261020T170000
+DTEND;TZID=Europe/Stockholm:20261020T180000
+SUMMARY:CrossFit
+DESCRIPTION:Tiden är en platshållare\, välj den klass som passar.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261021-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261021T180000
+DTEND;TZID=Europe/Stockholm:20261021T184500
+SUMMARY:Simning - teknik + 4 x 100 m på tid
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 4 x 100 m crawl på tid med 30 s vila\, notera tiderna. 100 m avsim. Efter jobb 06:48-15:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261024-0900@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261024T090000
+DTEND;TZID=Europe/Stockholm:20261024T101500
+SUMMARY:Zwift - lugnt 75 min
+DESCRIPTION:Jämnt tryck där du kan prata. Håll dig i zon 2 enligt ramptestet. Förutsätter ledig dag\, inget arbetspass inlagt.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261025-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261025T120000
+DTEND;TZID=Europe/Stockholm:20261025T125000
+SUMMARY:Löpning - lugnt 50 min
+DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Efter coachmöte 09:00-11:00.
+END:VEVENT
 END:VCALENDAR
