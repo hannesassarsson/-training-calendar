@@ -209,6 +209,13 @@ SUMMARY:Zwift - lätt 45 min
 DESCRIPTION:Lätt och avslappnat\, puls under ca 130. Ersätter långpasset eftersom återhämtningen är låg. Hoppa över och vila om kroppen känns tung. Efter jobb 06:45-12:45.
 END:VEVENT
 BEGIN:VEVENT
+UID:training-20261012-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261012T120000
+DTEND;TZID=Europe/Stockholm:20261012T123000
+SUMMARY:Lunchlöpning 5 km - lugnt
+DESCRIPTION:5 km lugnt på lunchen. Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Korta eller gå om underben/fotled känns av. Under jobb 06:45-17:00.
+END:VEVENT
+BEGIN:VEVENT
 UID:training-20261013-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261013T090000
 DTEND;TZID=Europe/Stockholm:20261013T094500
