@@ -216,11 +216,18 @@ SUMMARY:Lunchlöpning 5 km - lugnt
 DESCRIPTION:5 km lugnt på lunchen. Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Korta eller gå om underben/fotled känns av. Under jobb 06:45-17:00. GENOMFÖRT: 5\,03 km @ 5:29/km\, snittpuls 149. Kändes lugnt och sansat trots låg motivation.
 END:VEVENT
 BEGIN:VEVENT
+UID:training-20261012-1730@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261012T173000
+DTEND;TZID=Europe/Stockholm:20261012T183500
+SUMMARY:Zwift-race - Team DRAFT Monday Race (C)
+DESCRIPTION:Extrapass utanför planen efter jobb 06:45-17:00. GENOMFÖRT: 32\,9 km på 62 min\, snitteffekt 183 W\, NP 195 W\, bästa 20 min 211 W\, snittpuls 150.
+END:VEVENT
+BEGIN:VEVENT
 UID:training-20261013-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261013T090000
 DTEND;TZID=Europe/Stockholm:20261013T094500
 SUMMARY:Zwift - lugnt 45 min
-DESCRIPTION:Jämnt tryck där du kan prata. Puls under ca 140.
+DESCRIPTION:Jämnt tryck där du kan prata. Puls under ca 140. Efter måndagens Zwift-race: kör bara om HRV i natt ligger inom baslinjen (98-123). Annars vila och spara benen till kvällens CrossFit.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261013-1700@hannesassarsson
