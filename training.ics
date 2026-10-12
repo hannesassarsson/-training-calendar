@@ -234,7 +234,7 @@ UID:training-20261013-1700@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261013T170000
 DTEND;TZID=Europe/Stockholm:20261013T180000
 SUMMARY:CrossFit
-DESCRIPTION:Tiden är en platshållare\, välj den klass som passar. Kontrollerat denna vecka.
+DESCRIPTION:Tiden är en platshållare\, välj den klass som passar. Kontrollerat denna vecka. Osäkert om det blir av. Blir det inget: vila\, inget ersättningspass behövs efter måndagens race.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261014-0900@hannesassarsson
