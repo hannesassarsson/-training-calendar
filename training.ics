@@ -227,7 +227,7 @@ UID:training-20261013-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261013T090000
 DTEND;TZID=Europe/Stockholm:20261013T094500
 SUMMARY:Zwift - lugnt 45 min
-DESCRIPTION:Jämnt tryck där du kan prata. Puls under ca 140. Efter måndagens Zwift-race: kör bara om HRV i natt ligger inom baslinjen (98-123). Annars vila och spara benen till kvällens CrossFit.
+DESCRIPTION:Jämnt tryck där du kan prata. Puls under ca 140 och ca 110-150 W (zon 2 utifrån uppskattad FTP ca 200 W). Efter måndagens Zwift-race: kör bara om HRV i natt ligger inom baslinjen (98-123). Annars vila och spara benen till kvällens CrossFit.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261013-1700@hannesassarsson
