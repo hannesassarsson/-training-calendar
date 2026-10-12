@@ -196,7 +196,7 @@ DESCRIPTION:A: Varannan minut x 8: 2 squat snatch, så avslappnat som möjligt m
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261010-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261010T1000
+DTSTART;TZID=Europe/Stockholm:20261010T100000
 DTEND;TZID=Europe/Stockholm:20261010T120000
 SUMMARY:KICKR - långpass
 DESCRIPTION:90-120 min aerobiskt/Z2. Jämnt och kontrollerat, prattempo. Ingen maxning. Börja träna på energi/vätska under passet.
@@ -213,7 +213,7 @@ UID:training-20261012-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261012T120000
 DTEND;TZID=Europe/Stockholm:20261012T123000
 SUMMARY:Lunchlöpning 5 km - lugnt
-DESCRIPTION:5 km lugnt på lunchen. Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Korta eller gå om underben/fotled känns av. Under jobb 06:45-17:00.
+DESCRIPTION:5 km lugnt på lunchen. Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Korta eller gå om underben/fotled känns av. Under jobb 06:45-17:00. GENOMFÖRT: kändes lugnt och sansat trots låg motivation.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261013-0900@hannesassarsson
