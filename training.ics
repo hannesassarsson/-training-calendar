@@ -227,14 +227,14 @@ UID:training-20261013-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261013T090000
 DTEND;TZID=Europe/Stockholm:20261013T094500
 SUMMARY:Zwift - lugnt 45 min
-DESCRIPTION:Jämnt tryck där du kan prata. Puls under ca 140 och ca 110-150 W (zon 2 utifrån uppskattad FTP ca 200 W). Efter måndagens Zwift-race: kör bara om HRV i natt ligger inom baslinjen (98-123). Annars vila och spara benen till kvällens CrossFit.
+DESCRIPTION:Jämnt tryck där du kan prata. Puls under ca 140 och ca 110-150 W (zon 2 utifrån uppskattad FTP ca 200 W). Efter måndagens Zwift-race: kör bara om HRV i natt ligger inom baslinjen (98-123). Annars vila och spara benen till kvällens CrossFit. INTE GENOMFÖRT: promenad 48 min i Simrishamn i stället.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261013-1700@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261013T170000
-DTEND;TZID=Europe/Stockholm:20261013T180000
+DTSTART;TZID=Europe/Stockholm:20261013T181400
+DTEND;TZID=Europe/Stockholm:20261013T190400
 SUMMARY:CrossFit
-DESCRIPTION:Tiden är en platshållare\, välj den klass som passar. Kontrollerat denna vecka. Osäkert om det blir av. Blir det inget: vila\, inget ersättningspass behövs efter måndagens race.
+DESCRIPTION:Var 10:e minut x 2: 21-15-9 thrusters 40/30 + kcal assault bike. Vila 10 min. 7 min AMRAP squat clean 70/50. Vila 3 min. 7 min AMRAP 20 KB swing 24/16 + 3 wall walks. GENOMFÖRT: 49 min\, snittpuls 137\, maxpuls 181\, belastning 59. Kontrollerat som planerat.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261014-0900@hannesassarsson
