@@ -247,15 +247,15 @@ BEGIN:VEVENT
 UID:training-20261014-1800@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261014T180000
 DTEND;TZID=Europe/Stockholm:20261014T184500
-SUMMARY:Simning - teknik 45 min
-DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller.
+SUMMARY:Simning - inställd (flyttad till torsdag)
+DESCRIPTION:Inställd. Flyttad till torsdag 15 oktober 17:45 efter jobb.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261015-1745@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261015T174500
-DTEND;TZID=Europe/Stockholm:20261015T182000
-SUMMARY:Löpning - lugnt 35 min
-DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Efter jobb 07:00-17:00.
+DTEND;TZID=Europe/Stockholm:20261015T183000
+SUMMARY:Simning - teknik 45 min
+DESCRIPTION:Flyttad från onsdag och ersätter torsdagens löpning (benen har onsdagens tempopass). 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Lugnt och tekniskt efter jobb 07:00-17:00. Badet stänger 19:30.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261017-1430@hannesassarsson
