@@ -251,6 +251,13 @@ SUMMARY:Simning - inställd (flyttad till torsdag)
 DESCRIPTION:Inställd. Flyttad till torsdag 15 oktober 17:45 efter jobb.
 END:VEVENT
 BEGIN:VEVENT
+UID:training-20261015-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261015T120000
+DTEND;TZID=Europe/Stockholm:20261015T123000
+SUMMARY:Lunchlöpning 5 km - lugnt
+DESCRIPTION:Riktigt lugnt efter onsdagens tempopass: puls under 150\, tempot får bli vad det blir (troligen 5:30-6:00/km). Känns benen tunga efter första km: gå tillbaka\, kvällens simning är dagens viktigaste pass. Under jobb 07:00-17:00.
+END:VEVENT
+BEGIN:VEVENT
 UID:training-20261015-1745@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261015T174500
 DTEND;TZID=Europe/Stockholm:20261015T183000
