@@ -238,10 +238,10 @@ DESCRIPTION:Var 10:e minut x 2: 21-15-9 thrusters 40/30 + kcal assault bike. Vil
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261014-0900@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261014T090000
-DTEND;TZID=Europe/Stockholm:20261014T094000
+DTSTART;TZID=Europe/Stockholm:20261014T161300
+DTEND;TZID=Europe/Stockholm:20261014T165000
 SUMMARY:Löpning - lugnt 40 min
-DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150.
+DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. GENOMFÖRT på löpband: 7\,15 km på 36 min. Första 2 km ca 5:00/km puls 141-147\, sedan km 3-7 ca 4:24/km puls 158-164. Blev ett progressivt tempopass i stället för lugnt. Kändes tungt först\, sedan lätt och sansat.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261014-1800@hannesassarsson
