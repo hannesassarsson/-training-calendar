@@ -269,7 +269,7 @@ UID:training-20261017-1430@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261017T143000
 DTEND;TZID=Europe/Stockholm:20261017T151500
 SUMMARY:Simning - teknik 45 min
-DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 3 x 200 m lugn crawl med 20-30 s vila (bygger mot längre sammanhängande crawl\, i dag ca 500 m). 100 m avsim. Vila hellre mer än att tekniken faller. Efter jobb 06:45-12:45. INTE GENOMFÖRT.
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 3 x 200 m lugn crawl med 20-30 s vila (bygger mot längre sammanhängande crawl\, i dag ca 500 m). 100 m avsim. Vila hellre mer än att tekniken faller. Efter jobb 06:45-12:45. INTE GENOMFÖRT. INTE GENOMFÖRT.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261017-1700@hannesassarsson
@@ -304,7 +304,7 @@ UID:training-20261020-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261020T090000
 DTEND;TZID=Europe/Stockholm:20261020T095000
 SUMMARY:Zwift - ramptest FTP
-DESCRIPTION:Zwifts ramptest inklusive uppvärmning och nedvarvning. Skjut några dagar om HRV fortfarande är obalanserad på morgonen.
+DESCRIPTION:Zwifts ramptest inklusive uppvärmning och nedvarvning. Skjut några dagar om HRV fortfarande är obalanserad på morgonen. Känner du dig fortfarande sjuk eller seg av snusstoppet på morgonen: skjut testet och kör 45 min lugnt i stället.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261020-1700@hannesassarsson
