@@ -280,10 +280,10 @@ DESCRIPTION:Planerat som långpass 90 min zon 2\, blev race. GENOMFÖRT: 27\,4 k
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261018-0830@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261018T083000
-DTEND;TZID=Europe/Stockholm:20261018T093000
-SUMMARY:Vila (Zwift flyttat till lördag kväll)
-DESCRIPTION:Vila före jobb 12:15-18:15. Cykelpasset är flyttat till lördag kväll som långpass.
+DTSTART;TZID=Europe/Stockholm:20261018T090000
+DTEND;TZID=Europe/Stockholm:20261018T101500
+SUMMARY:Zwift - lugnt 75 min zon 2
+DESCRIPTION:Ersätter lördagens långpass. Kör som strukturerat träningspass eller fri rutt\, inte race. 10 min uppvärmning\, 60 min jämnt ca 110-150 W och puls under ca 140\, 5 min nedvarvning. Koppla in pulsbandet. Drick under passet. Känns det tungt av snusstoppet: korta till 45 min. Inget hårt inför tisdagens ramptest. Före jobb 12:15-18:15.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261019-0900@hannesassarsson
