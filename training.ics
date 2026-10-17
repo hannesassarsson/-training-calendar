@@ -273,10 +273,10 @@ DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 3 x 200 m lugn crawl med 20-30 
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261017-1700@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261017T170000
-DTEND;TZID=Europe/Stockholm:20261017T183000
-SUMMARY:Zwift - långpass 90 min zon 2
-DESCRIPTION:Veckans långpass. 10 min uppvärmning\, 75 min jämnt i zon 2: ca 110-150 W och puls under ca 140\, 5 min nedvarvning. Prattempo hela vägen\, inga race eller ryck. Drick regelbundet och ät något efter ca 45 min. Efter jobb 06:45-12:45 och simning 14:30.
+DTSTART;TZID=Europe/Stockholm:20261017T163300
+DTEND;TZID=Europe/Stockholm:20261017T172800
+SUMMARY:Zwift-race - Team DRAFT Saturday Race (D)
+DESCRIPTION:Planerat som långpass 90 min zon 2\, blev race. GENOMFÖRT: 27\,4 km på 55 min\, snitteffekt 164 W\, NP 186 W\, bästa 20 min 200 W. Pulsdata saknas. Mitt i snusstoppet.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261018-0830@hannesassarsson
