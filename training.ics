@@ -288,9 +288,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261019-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261019T090000
-DTEND;TZID=Europe/Stockholm:20261019T094000
-SUMMARY:Löpning - lugnt 40 min
-DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Blir natten mot måndag dålig igen: kör 30 min eller hoppa över och lägg krutet på kvällens simning. Ledig dag.
+DTEND;TZID=Europe/Stockholm:20261019T101000
+SUMMARY:Löpning - långpass 70 min lugnt
+DESCRIPTION:Veckans långa löprunda\, ca 10-12 km. Pratempo hela vägen\, troligen 6:00-6:30/km\, puls under ca 150. Ingen fartökning på slutet. Vätska om du är ute över en timme. Villkor: minst ca 6\,5 h sömn och HRV inom baslinjen (98-123) enligt morgonchecken. Annars 40 min lugnt i stället. Ledig dag. Kvällens simning är fortfarande dagens viktigaste pass.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261019-1800@hannesassarsson
@@ -330,8 +330,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261025-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261025T120000
-DTEND;TZID=Europe/Stockholm:20261025T124500
-SUMMARY:Löpning - lugnt 45 min
-DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Efter coachmöte 09:00-11:00. Vintertid börjar i natt.
+DTEND;TZID=Europe/Stockholm:20261025T123000
+SUMMARY:Löpning - valfritt 30 min lugnt
+DESCRIPTION:Valfritt eftersom måndagen blev långpass. Pratempo\, puls under ca 150. Regnprognos: löpband går lika bra. Efter coachmöte 09:00-11:00. Vintertid börjar i natt.
 END:VEVENT
 END:VCALENDAR
