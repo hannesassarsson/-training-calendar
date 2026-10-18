@@ -328,10 +328,10 @@ SUMMARY:Zwift - långpass 90 min zon 2
 DESCRIPTION:Veckans långpass. 10 min uppvärmning\, 75 min jämnt i zon 2 enligt ramptestet (annars ca 110-150 W och puls under ca 140)\, 5 min nedvarvning. Prattempo hela vägen: inget race den här gången. Drick regelbundet och ät något efter ca 45 min. Ledig dag efter två långa arbetsdagar\, så lugnt är rätt.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261025-1200@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261025T120000
-DTEND;TZID=Europe/Stockholm:20261025T123000
-SUMMARY:Löpning - valfritt 30 min lugnt
-DESCRIPTION:Valfritt eftersom måndagen blev långpass. Pratempo\, puls under ca 150. Regnprognos: löpband går lika bra. Efter coachmöte 09:00-11:00. Vintertid börjar i natt.
+UID:training-20261025-0730@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261025T073000
+DTEND;TZID=Europe/Stockholm:20261025T084500
+SUMMARY:Hyrox - gemensamt pass med coacherna
+DESCRIPTION:Gemensamt Hyrox-pass före coachmötet 09:00-11:00. Tiden är preliminär. Veckans hårda pass: kör det gärna fullt. Ersätter söndagens löpning. Ät en lätt frukost ca 1 h innan och ha något att äta till mötet. Vintertid börjar i natt: du får en timme extra sömn.
 END:VEVENT
 END:VCALENDAR
