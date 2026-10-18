@@ -283,28 +283,28 @@ UID:training-20261018-0830@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261018T184500
 DTEND;TZID=Europe/Stockholm:20261018T200000
 SUMMARY:Zwift - lugnt 75 min zon 2
-DESCRIPTION:Ersätter lördagens långpass. Kör som strukturerat träningspass eller fri rutt\, inte race. 10 min uppvärmning\, 60 min jämnt ca 110-150 W och puls under ca 140\, 5 min nedvarvning. Koppla in pulsbandet. Drick under passet. Känns det tungt av snusstoppet: korta till 45 min. Inget hårt inför tisdagens ramptest. Efter jobb 12:15-18:15. Ät något lätt efter jobbet innan du kör.
+DESCRIPTION:Ersätter lördagens långpass. Kör som strukturerat träningspass eller fri rutt\, inte race. 10 min uppvärmning\, 60 min jämnt ca 110-150 W och puls under ca 140\, 5 min nedvarvning. Koppla in pulsbandet. Drick under passet. Känns det tungt av snusstoppet: korta till 45 min. Inget hårt inför tisdagens ramptest. Efter jobb 12:15-18:15. Ät något lätt efter jobbet innan du kör. INTE GENOMFÖRT: cykelbyxorna i tvätten. Ersatt med en promenad.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261019-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261019T090000
 DTEND;TZID=Europe/Stockholm:20261019T094000
 SUMMARY:Löpning - lugnt 40 min
-DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150.
+DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Blir natten mot måndag dålig igen: kör 30 min eller hoppa över och lägg krutet på kvällens simning. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261019-1800@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261019T180000
 DTEND;TZID=Europe/Stockholm:20261019T184500
 SUMMARY:Simning - teknik 45 min
-DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller.
+DESCRIPTION:Veckans viktigaste pass\, ersätter lördagens missade simning. 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller. Ledig dag\, hämta glasögonen 16:45 först. Badet stänger 19:30.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261020-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261020T090000
 DTEND;TZID=Europe/Stockholm:20261020T095000
 SUMMARY:Zwift - ramptest FTP
-DESCRIPTION:Zwifts ramptest inklusive uppvärmning och nedvarvning. Skjut några dagar om HRV fortfarande är obalanserad på morgonen. Känner du dig fortfarande sjuk eller seg av snusstoppet på morgonen: skjut testet och kör 45 min lugnt i stället.
+DESCRIPTION:Zwifts ramptest inklusive uppvärmning och nedvarvning\, ger din FTP och riktiga wattzoner. Kör bara om natten mot tisdag ser bra ut: minst ca 6\,5 h sömn och HRV inom baslinjen (98-123). Annars: 45 min lugnt i zon 2 i stället\, så tar vi testet nästa vecka. Ledig dag. Kvällens CrossFit kör du kontrollerat om testet blir av.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261020-1700@hannesassarsson
@@ -323,15 +323,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261024-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261024T090000
-DTEND;TZID=Europe/Stockholm:20261024T101500
-SUMMARY:Zwift - lugnt 75 min
-DESCRIPTION:Jämnt tryck där du kan prata. Håll dig i zon 2 enligt ramptestet. Förutsätter ledig dag\, inget arbetspass inlagt.
+DTEND;TZID=Europe/Stockholm:20261024T103000
+SUMMARY:Zwift - långpass 90 min zon 2
+DESCRIPTION:Veckans långpass. 10 min uppvärmning\, 75 min jämnt i zon 2 enligt ramptestet (annars ca 110-150 W och puls under ca 140)\, 5 min nedvarvning. Prattempo hela vägen: inget race den här gången. Drick regelbundet och ät något efter ca 45 min. Ledig dag efter två långa arbetsdagar\, så lugnt är rätt.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261025-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261025T120000
-DTEND;TZID=Europe/Stockholm:20261025T125000
-SUMMARY:Löpning - lugnt 50 min
-DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Efter coachmöte 09:00-11:00.
+DTEND;TZID=Europe/Stockholm:20261025T124500
+SUMMARY:Löpning - lugnt 45 min
+DESCRIPTION:Pratempo\, troligen 6:00-6:30/km. Riktmärke puls under ca 150. Efter coachmöte 09:00-11:00. Vintertid börjar i natt.
 END:VEVENT
 END:VCALENDAR
