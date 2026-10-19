@@ -283,28 +283,28 @@ UID:training-20261018-0830@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261018T184500
 DTEND;TZID=Europe/Stockholm:20261018T200000
 SUMMARY:Zwift - lugnt 75 min zon 2
-DESCRIPTION:Ersätter lördagens långpass. Kör som strukturerat träningspass eller fri rutt\, inte race. 10 min uppvärmning\, 60 min jämnt ca 110-150 W och puls under ca 140\, 5 min nedvarvning. Koppla in pulsbandet. Drick under passet. Känns det tungt av snusstoppet: korta till 45 min. Inget hårt inför tisdagens ramptest. Efter jobb 12:15-18:15. Ät något lätt efter jobbet innan du kör. INTE GENOMFÖRT: cykelbyxorna i tvätten. Ersatt med en promenad.
+DESCRIPTION:Ersätter lördagens långpass. Kör som strukturerat träningspass eller fri rutt\, inte race. 10 min uppvärmning\, 60 min jämnt ca 110-150 W och puls under ca 140\, 5 min nedvarvning. Koppla in pulsbandet. Drick under passet. Känns det tungt av snusstoppet: korta till 45 min. Inget hårt inför tisdagens ramptest. Efter jobb 12:15-18:15. Ät något lätt efter jobbet innan du kör. INTE GENOMFÖRT: cykelbyxorna i tvätten. Ersatt med en promenad. INTE GENOMFÖRT.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261019-0900@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261019T090000
+DTSTART;TZID=Europe/Stockholm:20261019T091800
 DTEND;TZID=Europe/Stockholm:20261019T101000
-SUMMARY:Löpning - långpass 70 min lugnt
-DESCRIPTION:Veckans långa löprunda\, ca 10-12 km. Pratempo hela vägen\, troligen 6:00-6:30/km\, puls under ca 150. Ingen fartökning på slutet. Vätska om du är ute över en timme. Villkor: minst ca 6\,5 h sömn och HRV inom baslinjen (98-123) enligt morgonchecken. Annars 40 min lugnt i stället. Ledig dag. Kvällens simning är fortfarande dagens viktigaste pass.
+SUMMARY:Löpning - långpass 16\,5 km
+DESCRIPTION:Veckans långa löprunda\, ca 10-12 km. Pratempo hela vägen\, troligen 6:00-6:30/km\, puls under ca 150. Ingen fartökning på slutet. Vätska om du är ute över en timme. Villkor: minst ca 6\,5 h sömn och HRV inom baslinjen (98-123) enligt morgonchecken. Annars 40 min lugnt i stället. Ledig dag. Kvällens simning är fortfarande dagens viktigaste pass. GENOMFÖRT som långpass: 16\,55 km på 91 min\, 5:32/km\, snittpuls 157 (154-160 hela vägen). Kändes otroligt lätt.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261019-1800@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261019T180000
 DTEND;TZID=Europe/Stockholm:20261019T184500
 SUMMARY:Simning - teknik 45 min
-DESCRIPTION:Veckans viktigaste pass\, ersätter lördagens missade simning. 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller. Ledig dag\, hämta glasögonen 16:45 först. Badet stänger 19:30.
+DESCRIPTION:Veckans viktigaste pass\, ersätter lördagens missade simning. 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller. Ledig dag\, hämta glasögonen 16:45 först. Badet stänger 19:30. Extra lugnt efter förmiddagens långpass: mer teknik\, mindre distans.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261020-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261020T090000
 DTEND;TZID=Europe/Stockholm:20261020T095000
 SUMMARY:Zwift - ramptest FTP
-DESCRIPTION:Zwifts ramptest inklusive uppvärmning och nedvarvning\, ger din FTP och riktiga wattzoner. Kör bara om natten mot tisdag ser bra ut: minst ca 6\,5 h sömn och HRV inom baslinjen (98-123). Annars: 45 min lugnt i zon 2 i stället\, så tar vi testet nästa vecka. Ledig dag. Kvällens CrossFit kör du kontrollerat om testet blir av.
+DESCRIPTION:Zwifts ramptest inklusive uppvärmning och nedvarvning\, ger din FTP och riktiga wattzoner. Kör bara om natten mot tisdag ser bra ut: minst ca 6\,5 h sömn och HRV inom baslinjen (98-123). Annars: 45 min lugnt i zon 2 i stället\, så tar vi testet nästa vecka. Ledig dag. Kvällens CrossFit kör du kontrollerat om testet blir av. Känns benen tunga efter måndagens långlöpning: skjut testet till lördag 24 oktober.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261020-1700@hannesassarsson
