@@ -304,14 +304,14 @@ UID:training-20261020-1400@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261020T140000
 DTEND;TZID=Europe/Stockholm:20261020T153000
 SUMMARY:Zwift - lugnt 60-90 min (efter TBE-vaccin)
-DESCRIPTION:Ersätter ramptestet\\, som flyttats till onsdag 21/10 på grund av TBE-vaccinet i dag. Lugnt i zon 1-2: puls under ca 140\\, prattempo hela vägen. 60-90 min\\, upp till 2 h om allt känns bra. Avbryt om du känner dig febrig eller sjuk. Ledig dag.
+DESCRIPTION:Ersätter ramptestet\, som flyttats till onsdag 21/10 på grund av TBE-vaccinet i dag. Lugnt i zon 1-2: puls under ca 140\, prattempo hela vägen. 60-90 min\, upp till 2 h om allt känns bra. Avbryt om du känner dig febrig eller sjuk. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261020-1700@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261020T170000
 DTEND;TZID=Europe/Stockholm:20261020T180000
-SUMMARY:CrossFit (valfritt\\, lugnt)
-DESCRIPTION:Dag med TBE-vaccin: hoppa över eller kör lätt och teknikfokuserat\\, inga maxlyft. Armen kan vara öm efter sprutan. Tiden är en platshållare\\, välj den klass som passar.
+SUMMARY:CrossFit (valfritt\, lugnt)
+DESCRIPTION:Dag med TBE-vaccin: hoppa över eller kör lätt och teknikfokuserat\, inga maxlyft. Armen kan vara öm efter sprutan. Tiden är en platshållare\, välj den klass som passar.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261021-1600@hannesassarsson
@@ -326,7 +326,7 @@ UID:training-20261021-1800@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261021T180000
 DTEND;TZID=Europe/Stockholm:20261021T184500
 SUMMARY:Simning - lugn teknik
-DESCRIPTION:Ramptestet ligger tidigare i dag\\, så simningen blir lugn: 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Hoppa över om armen är öm efter vaccinet. Efter jobb 06:48-15:00.
+DESCRIPTION:Ramptestet ligger tidigare i dag\, så simningen blir lugn: 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Hoppa över om armen är öm efter vaccinet. Efter jobb 06:48-15:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261024-0900@hannesassarsson
