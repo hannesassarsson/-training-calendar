@@ -300,25 +300,33 @@ SUMMARY:Simning - teknik 45 min
 DESCRIPTION:Veckans viktigaste pass\, ersätter lördagens missade simning. 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Vila hellre mer än att tekniken faller. Ledig dag\, hämta glasögonen 16:45 först. Badet stänger 19:30. Extra lugnt efter förmiddagens långpass: mer teknik\, mindre distans.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261020-0900@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261020T090000
-DTEND;TZID=Europe/Stockholm:20261020T095000
-SUMMARY:Zwift - ramptest FTP
-DESCRIPTION:Zwifts ramptest inklusive uppvärmning och nedvarvning\, ger din FTP och riktiga wattzoner. Kör bara om natten mot tisdag ser bra ut: minst ca 6\,5 h sömn och HRV inom baslinjen (98-123). Annars: 45 min lugnt i zon 2 i stället\, så tar vi testet nästa vecka. Ledig dag. Kvällens CrossFit kör du kontrollerat om testet blir av. Känns benen tunga efter måndagens långlöpning: skjut testet till lördag 24 oktober.
+UID:training-20261020-1400@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261020T140000
+DTEND;TZID=Europe/Stockholm:20261020T153000
+SUMMARY:Zwift - lugnt 60-90 min (efter TBE-vaccin)
+DESCRIPTION:Ersätter ramptestet\\, som flyttats till onsdag 21/10 på grund av TBE-vaccinet i dag. Lugnt i zon 1-2: puls under ca 140\\, prattempo hela vägen. 60-90 min\\, upp till 2 h om allt känns bra. Avbryt om du känner dig febrig eller sjuk. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261020-1700@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261020T170000
 DTEND;TZID=Europe/Stockholm:20261020T180000
-SUMMARY:CrossFit
-DESCRIPTION:Tiden är en platshållare\, välj den klass som passar.
+SUMMARY:CrossFit (valfritt\\, lugnt)
+DESCRIPTION:Dag med TBE-vaccin: hoppa över eller kör lätt och teknikfokuserat\\, inga maxlyft. Armen kan vara öm efter sprutan. Tiden är en platshållare\\, välj den klass som passar.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261021-1600@hannesassarsson
+DTSTAMP:20261020T110500Z
+DTSTART;TZID=Europe/Stockholm:20261021T160000
+DTEND;TZID=Europe/Stockholm:20261021T165000
+SUMMARY:Zwift - ramptest FTP
+DESCRIPTION:Flyttat från tisdag 20/10 på grund av TBE-vaccinet. Zwifts ramptest inklusive uppvärmning och nedvarvning\, ger din FTP och riktiga wattzoner. Kör bara om du känner dig helt normal efter vaccinet (ingen feber eller sjukkänsla) och natten mot onsdag var bra. Annars skjuter vi det till nästa vecka. Torsdag och fredag är långa arbetsdagar och söndag har Hyrox\, så onsdag är veckans bästa lucka. Efter jobb 06:48-15:00\, ät något innan.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261021-1800@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261021T180000
 DTEND;TZID=Europe/Stockholm:20261021T184500
-SUMMARY:Simning - teknik + 4 x 100 m på tid
-DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 4 x 100 m crawl på tid med 30 s vila\, notera tiderna. 100 m avsim. Efter jobb 06:48-15:00.
+SUMMARY:Simning - lugn teknik
+DESCRIPTION:Ramptestet ligger tidigare i dag\\, så simningen blir lugn: 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Hoppa över om armen är öm efter vaccinet. Efter jobb 06:48-15:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261024-0900@hannesassarsson
