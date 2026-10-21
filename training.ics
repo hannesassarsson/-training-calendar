@@ -319,7 +319,7 @@ DTSTAMP:20261020T110500Z
 DTSTART;TZID=Europe/Stockholm:20261021T160000
 DTEND;TZID=Europe/Stockholm:20261021T165000
 SUMMARY:Zwift - ramptest FTP
-DESCRIPTION:Flyttat från tisdag 20/10 på grund av TBE-vaccinet. Zwifts ramptest inklusive uppvärmning och nedvarvning\, ger din FTP och riktiga wattzoner. Kör bara om du känner dig helt normal efter vaccinet (ingen feber eller sjukkänsla) och natten mot onsdag var bra. Annars skjuter vi det till nästa vecka. Torsdag och fredag är långa arbetsdagar och söndag har Hyrox\, så onsdag är veckans bästa lucka. Efter jobb 06:48-15:00\, ät något innan.
+DESCRIPTION:Flyttat från tisdag 20/10 på grund av TBE-vaccinet. Zwifts ramptest inklusive uppvärmning och nedvarvning\, ger din FTP och riktiga wattzoner. Kör bara om du känner dig helt normal efter vaccinet (ingen feber eller sjukkänsla) och natten mot onsdag var bra. Annars skjuter vi det till nästa vecka. Torsdag och fredag är långa arbetsdagar och söndag har Hyrox\, så onsdag är veckans bästa lucka. Efter jobb 06:48-15:00\, ät något innan. GENOMFÖRT: Zwift FTP Ramp Test. FTP 255 W enligt Zwift. Sista steget ca 320 W\, maxeffekt 346 W\, maxpuls 178.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261021-1800@hannesassarsson
@@ -333,7 +333,7 @@ UID:training-20261024-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261024T090000
 DTEND;TZID=Europe/Stockholm:20261024T103000
 SUMMARY:Zwift - långpass 90 min zon 2
-DESCRIPTION:Veckans långpass. 10 min uppvärmning\, 75 min jämnt i zon 2 enligt ramptestet (annars ca 110-150 W och puls under ca 140)\, 5 min nedvarvning. Prattempo hela vägen: inget race den här gången. Drick regelbundet och ät något efter ca 45 min. Ledig dag efter två långa arbetsdagar\, så lugnt är rätt.
+DESCRIPTION:Veckans långpass. 10 min uppvärmning\, 75 min jämnt i zon 2: ca 140-165 W och puls under ca 140 (pulsen bestämmer om de krockar)\, 5 min nedvarvning. Prattempo hela vägen: inget race den här gången. Drick regelbundet och ät något efter ca 45 min. Ledig dag efter två långa arbetsdagar\, så lugnt är rätt. Ny FTP 255 W från rampestet 21/10.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261025-0730@hannesassarsson
