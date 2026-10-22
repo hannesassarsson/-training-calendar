@@ -329,6 +329,13 @@ SUMMARY:Simning - lugn teknik
 DESCRIPTION:Ramptestet ligger tidigare i dag\, så simningen blir lugn: 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Hoppa över om armen är öm efter vaccinet. Efter jobb 06:48-15:00.
 END:VEVENT
 BEGIN:VEVENT
+UID:training-20261022-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261022T120000
+DTEND;TZID=Europe/Stockholm:20261022T123000
+SUMMARY:Promenad - lunch
+DESCRIPTION:Lugn promenad i stället för löpning. Lång arbetsdag 07:00-17:00 dagen efter ramptestet\, och lördagens långpass och söndagens Hyrox väntar. Tiden är ungefärlig.
+END:VEVENT
+BEGIN:VEVENT
 UID:training-20261024-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261024T090000
 DTEND;TZID=Europe/Stockholm:20261024T103000
