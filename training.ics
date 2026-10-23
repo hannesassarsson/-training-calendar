@@ -340,7 +340,14 @@ UID:training-20261022-1800@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261022T180000
 DTEND;TZID=Europe/Stockholm:20261022T184000
 SUMMARY:Löpning - lugn kravlös runda 30-40 min
-DESCRIPTION:Helt utan krav\, ingen klocka-jakt. Prattempo och puls under ca 145-150: gå i uppförsbackar om det behövs. Högst 40-45 min. Efter jobb 07:00-17:00. Fredag jobb 08:00-18:15\, lördag långpass på Zwift och söndag Hyrox\, så spara benen.
+DESCRIPTION:Helt utan krav\, ingen klocka-jakt. Prattempo och puls under ca 145-150: gå i uppförsbackar om det behövs. Högst 40-45 min. Efter jobb 07:00-17:00. Fredag jobb 08:00-18:15\, lördag långpass på Zwift och söndag Hyrox\, så spara benen. INTE GENOMFÖRT torsdag: kördes fredag morgon 06:34 i stället.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261023-0634@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261023T063400
+DTEND;TZID=Europe/Stockholm:20261023T071900
+SUMMARY:Löpning - lugn morgonrunda 8 km
+DESCRIPTION:Flyttad från torsdag kväll. GENOMFÖRT: 8\,05 km på 45 min\, 5:33/km\, snittpuls 149. Km 1-6 puls 139-151\, km 7-8 snabbare med puls 158-163. Före jobb 08:00-18:15.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261024-0900@hannesassarsson
