@@ -353,8 +353,8 @@ BEGIN:VEVENT
 UID:training-20261024-0900@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261024T090000
 DTEND;TZID=Europe/Stockholm:20261024T103000
-SUMMARY:Zwift - långpass 90 min zon 2
-DESCRIPTION:Veckans långpass. 10 min uppvärmning\, 75 min jämnt i zon 2: ca 140-165 W och puls under ca 140 (pulsen bestämmer om de krockar)\, 5 min nedvarvning. Prattempo hela vägen: inget race den här gången. Drick regelbundet och ät något efter ca 45 min. Ledig dag efter två långa arbetsdagar\, så lugnt är rätt. Ny FTP 255 W från rampestet 21/10.
+SUMMARY:Zwift - 90 min sweet spot 3 x 12 min
+DESCRIPTION:FTP 255 W. 0-15 min: uppvärmning\, stegra 130 -> 190 W\, med 3 x 1 min hög kadens (100+) sista 5 min. 15-61 min: 3 x 12 min sweet spot 225-240 W (kadens 85-95\, kontrollerat: ska kännas hårt men hållbart) med 5 min lätt 140-150 W mellan. 61-80 min: 19 min jämnt zon 2 på 175-190 W (uthållighet på trötta ben\, som på 90 km i Jönköping). 80-90 min: nedvarvning 140 -> 110 W. Inte maxa: söndagens Hyrox är veckans fullgaspass. Drick en flaska per timme och ät något kolhydratrikt efter ca 45 min. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261025-0730@hannesassarsson
