@@ -363,4 +363,18 @@ DTEND;TZID=Europe/Stockholm:20261025T084500
 SUMMARY:Hyrox - gemensamt pass med coacherna
 DESCRIPTION:Gemensamt Hyrox-pass före coachmötet 09:00-11:00. Tiden är preliminär. Veckans hårda pass: kör det gärna fullt. Ersätter söndagens löpning. Ät en lätt frukost ca 1 h innan och ha något att äta till mötet. Vintertid börjar i natt: du får en timme extra sömn.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261030-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261030T100000
+DTEND;TZID=Europe/Stockholm:20261030T114500
+SUMMARY:Löpning - långpass 18-19 km
+DESCRIPTION:Uppbyggnad inför halvmaran 7 november. Prattempo hela vägen\, puls under ca 157 (troligen 5:35-5:50/km). Ingen fartökning. Ta med vätska och något att äta efter ca 60 min. Ledig dag mellan jobb torsdag 08:00-18:15 och lördag 07:00-17:00. Villkor: HRV inom baslinjen och inga känningar i underben eller fotled\, annars 12-14 km.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261107-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261107T100000
+DTEND;TZID=Europe/Stockholm:20261107T120000
+SUMMARY:Halvmara här hemma - kravlös
+DESCRIPTION:21\,1 km. Första 15 km i prattempo\, puls under ca 157. Känns det bra efter 15 km: trampa på de sista 6 km om du vill\, men inget måste. Jämförelse: Helsingborg 5 september 1:56:24. Vätska och energi efter ca 45 och 75 min. Lätt frukost ca 2 h innan. Ledig dag efter jobb fredag 07:00-17:00. Söndag 8 november ledig: vila eller lätt promenad.
+END:VEVENT
 END:VCALENDAR
