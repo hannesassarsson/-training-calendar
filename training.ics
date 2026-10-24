@@ -351,17 +351,17 @@ DESCRIPTION:Flyttad från torsdag kväll. GENOMFÖRT: 8\,05 km på 45 min\, 5:33
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261024-0900@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261024T090000
-DTEND;TZID=Europe/Stockholm:20261024T103000
-SUMMARY:Zwift - 90 min sweet spot 3 x 12 min
-DESCRIPTION:FTP 255 W. 0-15 min: uppvärmning\, stegra 130 -> 190 W\, med 3 x 1 min hög kadens (100+) sista 5 min. 15-61 min: 3 x 12 min sweet spot 225-240 W (kadens 85-95\, kontrollerat: ska kännas hårt men hållbart) med 5 min lätt 140-150 W mellan. 61-80 min: 19 min jämnt zon 2 på 175-190 W (uthållighet på trötta ben\, som på 90 km i Jönköping). 80-90 min: nedvarvning 140 -> 110 W. Inte maxa: söndagens Hyrox är veckans fullgaspass. Drick en flaska per timme och ät något kolhydratrikt efter ca 45 min. Ledig dag.
+DTSTART;TZID=Europe/Stockholm:20261024T095800
+DTEND;TZID=Europe/Stockholm:20261024T110100
+SUMMARY:Zwift - Finish Focus (blev hårt)
+DESCRIPTION:Planerat som långpass 90 min zon 2\, blev workouten Finish Focus. GENOMFÖRT: 30\,7 km på 63 min\, snitteffekt 192 W\, NP 221 W\, bästa 20 min 241 W\, snittpuls 155\, maxpuls 179\, belastning 138. Ca 19 min över FTP.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261025-0730@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261025T073000
 DTEND;TZID=Europe/Stockholm:20261025T084500
 SUMMARY:Hyrox - gemensamt pass med coacherna
-DESCRIPTION:Gemensamt Hyrox-pass före coachmötet 09:00-11:00. Tiden är preliminär. Veckans hårda pass: kör det gärna fullt. Ersätter söndagens löpning. Ät en lätt frukost ca 1 h innan och ha något att äta till mötet. Vintertid börjar i natt: du får en timme extra sömn.
+DESCRIPTION:Gemensamt Hyrox-pass före coachmötet 09:00-11:00. Tiden är preliminär. Lördagens Zwift blev hårt\, så kör kontrollerat (ca 80 %) i stället för fullt. Två hårda dagar i rad ökar skaderisken. Ersätter söndagens löpning. Ät en lätt frukost ca 1 h innan och ha något att äta till mötet. Vintertid börjar i natt: du får en timme extra sömn.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261030-1000@hannesassarsson
