@@ -377,4 +377,32 @@ DTEND;TZID=Europe/Stockholm:20261107T120000
 SUMMARY:Halvmara här hemma - kravlös
 DESCRIPTION:21\,1 km. Första 15 km i prattempo\, puls under ca 157. Känns det bra efter 15 km: trampa på de sista 6 km om du vill\, men inget måste. Jämförelse: Helsingborg 5 september 1:56:24. Vätska och energi efter ca 45 och 75 min. Lätt frukost ca 2 h innan. Ledig dag efter jobb fredag 07:00-17:00. Söndag 8 november ledig: vila eller lätt promenad.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261026-1730@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261026T173000
+DTEND;TZID=Europe/Stockholm:20261026T181500
+SUMMARY:Simning - teknik 45 min
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Lugnt dagen efter Hyrox. Simningen är din svagaste gren och fick bara ett pass förra veckan\, så det här passet är veckans prio. Efter jobb 07:30-16:24. Badet stänger 19:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261027-1715@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261027T171500
+DTEND;TZID=Europe/Stockholm:20261027T181500
+SUMMARY:Zwift - lugnt 60 min zon 2
+DESCRIPTION:10 min uppvärmning\, 45 min jämnt på 140-165 W\, 5 min nedvarvning. Puls under ca 140: pulsen bestämmer om de krockar. Inget race\, inga Finish Focus-spurter. Efter jobb 07:30-16:24.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261028-1730@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261028T173000
+DTEND;TZID=Europe/Stockholm:20261028T183000
+SUMMARY:CrossFit
+DESCRIPTION:Veckans CrossFit. Kör gärna med fart\, men inga maxlyft på benen: fredagens långpass väntar. Tiden är en platshållare\, välj den klass som passar. Efter jobb 07:30-16:24.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261031-1745@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261031T174500
+DTEND;TZID=Europe/Stockholm:20261031T183000
+SUMMARY:Simning - lugn teknik 45 min (valfritt)
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Valfritt efter en 10-timmarsdag: hoppa över om du är trött. Dagen efter långpasset\, så bara lugnt och tekniskt. Efter jobb 07:00-17:00. Badet stänger 19:30.
+END:VEVENT
 END:VCALENDAR
