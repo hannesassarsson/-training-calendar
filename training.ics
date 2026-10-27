@@ -358,10 +358,10 @@ DESCRIPTION:Planerat som långpass 90 min zon 2\, blev workouten Finish Focus. G
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261025-0730@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261025T073000
-DTEND;TZID=Europe/Stockholm:20261025T084500
+DTSTART;TZID=Europe/Stockholm:20261025T091500
+DTEND;TZID=Europe/Stockholm:20261025T100800
 SUMMARY:Hyrox - gemensamt pass med coacherna
-DESCRIPTION:Gemensamt Hyrox-pass före coachmötet 09:00-11:00. Tiden är preliminär. Lördagens Zwift blev hårt\, så kör kontrollerat (ca 80 %) i stället för fullt. Två hårda dagar i rad ökar skaderisken. Ersätter söndagens löpning. Ät en lätt frukost ca 1 h innan och ha något att äta till mötet. Vintertid börjar i natt: du får en timme extra sömn.
+DESCRIPTION:Gemensamt Hyrox-pass före coachmötet 09:00-11:00. Tiden är preliminär. Lördagens Zwift blev hårt\, så kör kontrollerat (ca 80 %) i stället för fullt. Två hårda dagar i rad ökar skaderisken. Ersätter söndagens löpning. Ät en lätt frukost ca 1 h innan och ha något att äta till mötet. Vintertid börjar i natt: du får en timme extra sömn. GENOMFÖRT 09:15: 53 min\, snittpuls 153\, maxpuls 174\, belastning 120.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261030-1000@hannesassarsson
@@ -382,14 +382,14 @@ UID:training-20261026-1730@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261026T173000
 DTEND;TZID=Europe/Stockholm:20261026T181500
 SUMMARY:Simning - teknik 45 min
-DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Lugnt dagen efter Hyrox. Simningen är din svagaste gren och fick bara ett pass förra veckan\, så det här passet är veckans prio. Efter jobb 07:30-16:24. Badet stänger 19:30. INTE GENOMFÖRT. Flyttad till onsdag 28/10.
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Lugnt dagen efter Hyrox. Simningen är din svagaste gren och fick bara ett pass förra veckan\, så det här passet är veckans prio. Efter jobb 07:30-16:24. Badet stänger 19:30. INTE GENOMFÖRT. Flyttad till onsdag 28/10. Inte registrerat i Garmin.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261027-1715@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261027T171500
-DTEND;TZID=Europe/Stockholm:20261027T182500
-SUMMARY:Zwift - lugnt 60-70 min zon 2
-DESCRIPTION:10 min uppvärmning\, 45-55 min jämnt på 140-165 W\, 5 min nedvarvning. Puls under ca 140: pulsen bestämmer om de krockar. Inget race\, inga spurter. Förra tisdagens Tower 26-pass (135 W\, puls 119\, 100 % i zon 1-2) är förebilden. Efter jobb 07:30-16:24 och lunchlöpningen.
+DTSTART;TZID=Europe/Stockholm:20261027T175200
+DTEND;TZID=Europe/Stockholm:20261027T184800
+SUMMARY:Zwift-race - CMC/NamZ ZRL Tuesday Practice Race (C)
+DESCRIPTION:10 min uppvärmning\, 45-55 min jämnt på 140-165 W\, 5 min nedvarvning. Puls under ca 140: pulsen bestämmer om de krockar. Inget race\, inga spurter. Förra tisdagens Tower 26-pass (135 W\, puls 119\, 100 % i zon 1-2) är förebilden. Efter jobb 07:30-16:24 och lunchlöpningen. Blev race i stället. GENOMFÖRT: 27\,6 km på 56 min\, snitteffekt 175 W\, NP 193 W (76 % av FTP)\, bästa 20 min 200 W\, snittpuls 145\, belastning 65.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261028-1700@hannesassarsson
