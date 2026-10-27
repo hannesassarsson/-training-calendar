@@ -368,7 +368,7 @@ UID:training-20261030-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261030T100000
 DTEND;TZID=Europe/Stockholm:20261030T114500
 SUMMARY:Löpning - långpass 18-19 km
-DESCRIPTION:Uppbyggnad inför halvmaran 7 november. Prattempo hela vägen\, puls under ca 157 (troligen 5:35-5:50/km). Ingen fartökning. Ta med vätska och något att äta efter ca 60 min. Ledig dag mellan jobb torsdag 08:00-18:15 och lördag 07:00-17:00. Villkor: HRV inom baslinjen och inga känningar i underben eller fotled\, annars 12-14 km.
+DESCRIPTION:Uppbyggnad inför halvmaran 7 november. Prattempo hela vägen\, puls under ca 157 (troligen 5:35-5:50/km). Ingen fartökning. Ta med vätska och något att äta efter ca 60 min. Ledig dag mellan jobb torsdag 08:00-18:15 och lördag 07:00-17:00. Villkor: HRV inom baslinjen och inga känningar i underben eller fotled\, annars 12-14 km. OBS: senaste löprundorna har legat nästan helt i zon 3 (16\,5 km 19/10 med snittpuls 157\, 5 km 27/10 med 155). Börja lugnare än du tror och håll pulsen under 150 första 5 km.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261107-1000@hannesassarsson
@@ -382,21 +382,21 @@ UID:training-20261026-1730@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261026T173000
 DTEND;TZID=Europe/Stockholm:20261026T181500
 SUMMARY:Simning - teknik 45 min
-DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Lugnt dagen efter Hyrox. Simningen är din svagaste gren och fick bara ett pass förra veckan\, så det här passet är veckans prio. Efter jobb 07:30-16:24. Badet stänger 19:30.
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Lugnt dagen efter Hyrox. Simningen är din svagaste gren och fick bara ett pass förra veckan\, så det här passet är veckans prio. Efter jobb 07:30-16:24. Badet stänger 19:30. INTE GENOMFÖRT. Flyttad till onsdag 28/10.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261027-1715@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261027T171500
-DTEND;TZID=Europe/Stockholm:20261027T181500
-SUMMARY:Zwift - lugnt 60 min zon 2
-DESCRIPTION:10 min uppvärmning\, 45 min jämnt på 140-165 W\, 5 min nedvarvning. Puls under ca 140: pulsen bestämmer om de krockar. Inget race\, inga Finish Focus-spurter. Efter jobb 07:30-16:24.
+DTEND;TZID=Europe/Stockholm:20261027T182500
+SUMMARY:Zwift - lugnt 60-70 min zon 2
+DESCRIPTION:10 min uppvärmning\, 45-55 min jämnt på 140-165 W\, 5 min nedvarvning. Puls under ca 140: pulsen bestämmer om de krockar. Inget race\, inga spurter. Förra tisdagens Tower 26-pass (135 W\, puls 119\, 100 % i zon 1-2) är förebilden. Efter jobb 07:30-16:24 och lunchlöpningen.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261028-1730@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261028T173000
-DTEND;TZID=Europe/Stockholm:20261028T183000
-SUMMARY:CrossFit
-DESCRIPTION:Veckans CrossFit. Kör gärna med fart\, men inga maxlyft på benen: fredagens långpass väntar. Tiden är en platshållare\, välj den klass som passar. Efter jobb 07:30-16:24.
+UID:training-20261028-1700@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261028T170000
+DTEND;TZID=Europe/Stockholm:20261028T174500
+SUMMARY:Simning - teknik 45 min
+DESCRIPTION:Flyttad från måndag och ersätter veckans CrossFit: simning är din svagaste gren och har bara fått ett pass på två veckor. 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Efter jobb 07:30-16:24. Badet stänger 19:30.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261031-1745@hannesassarsson
@@ -404,5 +404,12 @@ DTSTART;TZID=Europe/Stockholm:20261031T174500
 DTEND;TZID=Europe/Stockholm:20261031T183000
 SUMMARY:Simning - lugn teknik 45 min (valfritt)
 DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Valfritt efter en 10-timmarsdag: hoppa över om du är trött. Dagen efter långpasset\, så bara lugnt och tekniskt. Efter jobb 07:00-17:00. Badet stänger 19:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261027-1140@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261027T114000
+DTEND;TZID=Europe/Stockholm:20261027T120600
+SUMMARY:Löpning - lunchrunda 5 km
+DESCRIPTION:Oplanerad lunchrunda. GENOMFÖRT: 5\,02 km på 25:36\, snittpuls 155\, mest i zon 3. Under jobb 07:30-16:24.
 END:VEVENT
 END:VCALENDAR
