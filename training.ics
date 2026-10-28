@@ -392,6 +392,13 @@ SUMMARY:Zwift-race - CMC/NamZ ZRL Tuesday Practice Race (C)
 DESCRIPTION:10 min uppvärmning\, 45-55 min jämnt på 140-165 W\, 5 min nedvarvning. Puls under ca 140: pulsen bestämmer om de krockar. Inget race\, inga spurter. Förra tisdagens Tower 26-pass (135 W\, puls 119\, 100 % i zon 1-2) är förebilden. Efter jobb 07:30-16:24 och lunchlöpningen. Blev race i stället. GENOMFÖRT: 27\,6 km på 56 min\, snitteffekt 175 W\, NP 193 W (76 % av FTP)\, bästa 20 min 200 W\, snittpuls 145\, belastning 65.
 END:VEVENT
 BEGIN:VEVENT
+UID:training-20261028-1143@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261028T114300
+DTEND;TZID=Europe/Stockholm:20261028T120900
+SUMMARY:Löpning - lunchrunda 5 km
+DESCRIPTION:Oplanerad lunchrunda. GENOMFÖRT: 5\,03 km på 25:06 (4:59/km)\, snittpuls 154\, maxpuls 170. Under jobb 07:30-16:24.
+END:VEVENT
+BEGIN:VEVENT
 UID:training-20261028-1700@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261028T170000
 DTEND;TZID=Europe/Stockholm:20261028T174500
