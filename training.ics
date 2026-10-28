@@ -400,10 +400,10 @@ DESCRIPTION:Oplanerad lunchrunda. GENOMFÖRT: 5\,03 km på 25:06 (4:59/km)\, sni
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261028-1700@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261028T170000
-DTEND;TZID=Europe/Stockholm:20261028T174500
+DTSTART;TZID=Europe/Stockholm:20261028T164900
+DTEND;TZID=Europe/Stockholm:20261028T173900
 SUMMARY:Simning - teknik 45 min
-DESCRIPTION:Flyttad från måndag och ersätter veckans CrossFit: simning är din svagaste gren och har bara fått ett pass på två veckor. 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Efter jobb 07:30-16:24. Badet stänger 19:30.
+DESCRIPTION:Flyttad från måndag och ersätter veckans CrossFit: simning är din svagaste gren och har bara fått ett pass på två veckor. 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Efter jobb 07:30-16:24. Badet stänger 19:30. GENOMFÖRT 16:49: 1530 m på 50 min (30 min simtid)\, 1:58/100 m\, SWOLF 40\, 10\,2 tag per längd. Längsta simpasset hittills.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261031-1745@hannesassarsson
