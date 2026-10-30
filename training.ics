@@ -365,17 +365,17 @@ DESCRIPTION:Gemensamt Hyrox-pass före coachmötet 09:00-11:00. Tiden är prelim
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261030-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261030T100000
+DTSTART;TZID=Europe/Stockholm:20261030T084200
 DTEND;TZID=Europe/Stockholm:20261030T121500
-SUMMARY:Löpning - långpass 18-21 km (halvmara om det känns bra)
-DESCRIPTION:Ersätter halvmaran 7 november. Prattempo\, puls under ca 150 första 5 km och under ca 157 totalt (troligen 5:35-5:50/km). Beslut vid km 17-18: känns det riktigt bra\, inga känningar i underben\, fotled eller ljumske och pulsen är under 157\, fortsätt till 21\,1 km. Annars avsluta på 18-19 km\, det är också ett bra pass. Ingen fartökning före km 18. Ta med vätska och energi och ät efter ca 45 och 75 min. Lätt frukost ca 2 h innan. Jämförelse: Helsingborg 5 september 1:56:24. Täppt näsa onsdag kväll: kör bara om det sitter ovanför halsen och du är feberfri. Feber\, ont i halsen\, hosta eller värk i kroppen: vila. Ledig dag mellan jobb torsdag 08:00-18:15 och lördag 07:00-17:00. Pappas födelsedagsfirande på kvällen.
+SUMMARY:Löpning - halvmara 21\,1 km (planerat 18-19 km)
+DESCRIPTION:Ersätter halvmaran 7 november. Prattempo\, puls under ca 150 första 5 km och under ca 157 totalt (troligen 5:35-5:50/km). Beslut vid km 17-18: känns det riktigt bra\, inga känningar i underben\, fotled eller ljumske och pulsen är under 157\, fortsätt till 21\,1 km. Annars avsluta på 18-19 km\, det är också ett bra pass. Ingen fartökning före km 18. Ta med vätska och energi och ät efter ca 45 och 75 min. Lätt frukost ca 2 h innan. Jämförelse: Helsingborg 5 september 1:56:24. Täppt näsa onsdag kväll: kör bara om det sitter ovanför halsen och du är feberfri. Feber\, ont i halsen\, hosta eller värk i kroppen: vila. Ledig dag mellan jobb torsdag 08:00-18:15 och lördag 07:00-17:00. Pappas födelsedagsfirande på kvällen. GENOMFÖRT 08:42: 21\,13 km på 1:58:48 (5:37/km)\, snittpuls 158. Puls ca 155 första halvan och 158-164 sista 5 km. Jämför Helsingborg 5 sep: 1:56:24 med snittpuls 172.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261107-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261107T100000
 DTEND;TZID=Europe/Stockholm:20261107T113000
-SUMMARY:Zwift - långpass 90 min zon 2
-DESCRIPTION:Ersätter halvmaran\, som flyttats till fredag 30 oktober. Veckans långpass på cykel: 10 min uppvärmning\, 75 min jämnt på 140-165 W med puls under ca 140\, 5 min nedvarvning. Prattempo\, inga race. Drick regelbundet och ät något efter ca 45 min. Ledig dag efter jobb fredag 07:00-17:00. Söndag 8 november ledig: vila eller lätt promenad.
+SUMMARY:Löpning - lugnt långpass 14-16 km
+DESCRIPTION:Halvmaran sprangs redan 30 oktober\, så detta blir ett lugnt långpass i stället. Prattempo hela vägen\, puls under ca 157\, ingen fartökning. Vätska och lite energi efter ca 60 min. Ledig dag efter jobb fredag 07:00-17:00. Söndag 8 november ledig.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261026-1730@hannesassarsson
@@ -410,7 +410,7 @@ UID:training-20261031-1745@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261031T174500
 DTEND;TZID=Europe/Stockholm:20261031T183000
 SUMMARY:Simning - lugn teknik 45 min (valfritt)
-DESCRIPTION:Valfritt och bara om benen känns okej efter fredagens långpass: annars vila\, det är helt rätt. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Simning avlastar benen och kan hjälpa återhämtningen. Efter jobb 07:00-17:00. Badet stänger 19:30. Paddlar högst ca 1/3 av distansen\, resten utan.
+DESCRIPTION:Valfritt och bara om benen känns okej efter fredagens långpass: annars vila\, det är helt rätt. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Simning avlastar benen och kan hjälpa återhämtningen. Efter jobb 07:00-17:00. Badet stänger 19:30. Paddlar högst ca 1/3 av distansen\, resten utan. Efter fredagens halvmara: bara lugn simning utan paddlar\, eller vila.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261027-1140@hannesassarsson
