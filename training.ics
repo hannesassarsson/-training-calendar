@@ -419,4 +419,53 @@ DTEND;TZID=Europe/Stockholm:20261027T120600
 SUMMARY:Löpning - lunchrunda 5 km
 DESCRIPTION:Oplanerad lunchrunda. GENOMFÖRT: 5\,02 km på 25:36\, snittpuls 155\, mest i zon 3. Under jobb 07:30-16:24.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261102-1745@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261102T174500
+DTEND;TZID=Europe/Stockholm:20261102T183000
+SUMMARY:Simning - lugn teknik 40 min
+DESCRIPTION:Lugnt och tekniskt\, avlastar benen efter halvmaran. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Inga paddlar. Lång arbetsdag 07:00-17:00 och tredje långa jobbdagen i rad: känns du sliten är vila helt rätt. Badet stänger 19:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261103-1830@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261103T183000
+DTEND;TZID=Europe/Stockholm:20261103T184500
+SUMMARY:Vila
+DESCRIPTION:Vilodag. Lång arbetsdag 07:30-18:00. Gärna en promenad\, rörlighet eller lite stretch om du vill röra på dig.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261104-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261104T100000
+DTEND;TZID=Europe/Stockholm:20261104T111500
+SUMMARY:Zwift - zon 2 75 min
+DESCRIPTION:FTP 255 W. 10 min uppvärmning 130-150 W. 60 min jämnt zon 2 på 160-185 W\, puls under ca 145 (pulsen bestämmer). 5 min nedvarvning. Lugnt med flit: dagen efter fyra långa arbetsdagar i rad. Fläkt\, två flaskor\, ät något efter ca 45 min. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261104-1700@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261104T170000
+DTEND;TZID=Europe/Stockholm:20261104T180000
+SUMMARY:CrossFit - kontrollerat
+DESCRIPTION:Kör med\, men kontrollerat: teknik och styrka före maxtempo\, ingen all-out-WOD. Morgondagens sweet spot-pass är veckans kvalitetspass. Ledig dag. Tiden är en platshållare\, välj den klass som passar.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261105-1700@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261105T170000
+DTEND;TZID=Europe/Stockholm:20261105T180000
+SUMMARY:Zwift - sweet spot 3 x 10 min
+DESCRIPTION:Veckans kvalitetspass. FTP 255 W. 0-12 min: uppvärmning 130 -> 190 W med 3 x 1 min hög kadens (100+). 12-50 min: 3 x 10 min sweet spot 225-240 W med 4 min lätt 140-150 W mellan. 50-60 min: nedvarvning. Hårt men hållbart: du ska kunna säga korta meningar. Ät något innan. Efter jobb 08:00-16:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261106-1745@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261106T174500
+DTEND;TZID=Europe/Stockholm:20261106T183000
+SUMMARY:Simning - teknik 45 min
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Paddlar högst ca 1/3 av distansen. Andra simpasset i veckan: simning är din svagaste gren. Efter jobb 07:00-17:00. Badet stänger 19:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261108-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261108T100000
+DTEND;TZID=Europe/Stockholm:20261108T110000
+SUMMARY:Vila eller lätt rörelse
+DESCRIPTION:Vilodag efter lördagens långpass. Promenad eller rörlighet går bra. Måndag 9/11 jobb 07:00-17:00. Ledig dag.
+END:VEVENT
 END:VCALENDAR
