@@ -409,8 +409,8 @@ BEGIN:VEVENT
 UID:training-20261031-1745@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261031T174500
 DTEND;TZID=Europe/Stockholm:20261031T183000
-SUMMARY:Simning - lugn teknik 45 min (valfritt)
-DESCRIPTION:Valfritt och bara om benen känns okej efter fredagens långpass: annars vila\, det är helt rätt. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Simning avlastar benen och kan hjälpa återhämtningen. Efter jobb 07:00-17:00. Badet stänger 19:30. Paddlar högst ca 1/3 av distansen\, resten utan. Efter fredagens halvmara: bara lugn simning utan paddlar\, eller vila.
+SUMMARY:Vila (simningen struken)
+DESCRIPTION:Valfritt och bara om benen känns okej efter fredagens långpass: annars vila\, det är helt rätt. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Simning avlastar benen och kan hjälpa återhämtningen. Efter jobb 07:00-17:00. Badet stänger 19:30. Paddlar högst ca 1/3 av distansen\, resten utan. Efter fredagens halvmara: bara lugn simning utan paddlar\, eller vila. ÄNDRAT: vila lördag och söndag efter halvmaran 30/10.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261027-1140@hannesassarsson
