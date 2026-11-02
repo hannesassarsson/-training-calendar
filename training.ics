@@ -420,6 +420,13 @@ SUMMARY:Löpning - lunchrunda 5 km
 DESCRIPTION:Oplanerad lunchrunda. GENOMFÖRT: 5\,02 km på 25:36\, snittpuls 155\, mest i zon 3. Under jobb 07:30-16:24.
 END:VEVENT
 BEGIN:VEVENT
+UID:training-20261102-1208@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261102T120800
+DTEND;TZID=Europe/Stockholm:20261102T123600
+SUMMARY:Löpning - lunchrunda 5 km
+DESCRIPTION:Oplanerad lunchrunda. GENOMFÖRT: 5\,03 km på 27:36 (5:29/km)\, snittpuls 147. Lugnaste lunchrundan på flera veckor.
+END:VEVENT
+BEGIN:VEVENT
 UID:training-20261102-1745@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261102T174500
 DTEND;TZID=Europe/Stockholm:20261102T183000
