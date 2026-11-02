@@ -428,10 +428,10 @@ DESCRIPTION:Oplanerad lunchrunda. GENOMFÖRT: 5\,03 km på 27:36 (5:29/km)\, sni
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261102-1745@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261102T174500
-DTEND;TZID=Europe/Stockholm:20261102T183000
+DTSTART;TZID=Europe/Stockholm:20261102T172100
+DTEND;TZID=Europe/Stockholm:20261102T175900
 SUMMARY:Simning - lugn teknik 40 min
-DESCRIPTION:Lugnt och tekniskt\, avlastar benen efter halvmaran. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Inga paddlar. Lång arbetsdag 07:00-17:00 och tredje långa jobbdagen i rad: känns du sliten är vila helt rätt. Badet stänger 19:30.
+DESCRIPTION:Lugnt och tekniskt\, avlastar benen efter halvmaran. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Inga paddlar. Lång arbetsdag 07:00-17:00 och tredje långa jobbdagen i rad: känns du sliten är vila helt rätt. Badet stänger 19:30. GENOMFÖRT 17:21: 1230 m på 38 min (25 min simtid)\, 2:02/100 m\, SWOLF 41\, 10\,7 tag per längd.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261103-1830@hannesassarsson
