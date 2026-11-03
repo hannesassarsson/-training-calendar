@@ -445,7 +445,7 @@ UID:training-20261104-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261104T100000
 DTEND;TZID=Europe/Stockholm:20261104T111500
 SUMMARY:Zwift - zon 2 75 min
-DESCRIPTION:FTP 255 W. 10 min uppvärmning 130-150 W. 60 min jämnt zon 2 på 160-185 W\, puls under ca 145 (pulsen bestämmer). 5 min nedvarvning. Lugnt med flit: dagen efter fyra långa arbetsdagar i rad. Fläkt\, två flaskor\, ät något efter ca 45 min. Ledig dag.
+DESCRIPTION:Zon 2 enligt säsongsplanen: 140-165 W och puls under ca 140\, pulsen bestämmer. 0-10 min: uppvärmning\, öka lugnt från 110 till 140 W. 10-70 min: 60 min jämnt på 145-160 W. Lägg in 3 x 5 min med hög kadens (95-100 rpm) på samma watt vid min 20\, 40 och 60\, resten 85-90 rpm. 70-75 min: nedvarvning under 120 W. Platt bana (t.ex. Tempus Fugit eller Tick Tock i Watopia) eller ett eget pass i ERG-läge. Inga race\, gruppåk eller spurter. Fläkt\, två flaskor\, ät något efter ca 45 min. CrossFit kl. 17:00. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261104-1700@hannesassarsson
