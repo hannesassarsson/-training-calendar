@@ -444,8 +444,8 @@ BEGIN:VEVENT
 UID:training-20261104-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261104T100000
 DTEND;TZID=Europe/Stockholm:20261104T111500
-SUMMARY:Zwift - zon 2 75 min
-DESCRIPTION:Zon 2 enligt säsongsplanen: 140-165 W och puls under ca 140\, pulsen bestämmer. 0-10 min: uppvärmning\, öka lugnt från 110 till 140 W. 10-70 min: 60 min jämnt på 145-160 W. Lägg in 3 x 5 min med hög kadens (95-100 rpm) på samma watt vid min 20\, 40 och 60\, resten 85-90 rpm. 70-75 min: nedvarvning under 120 W. Platt bana (t.ex. Tempus Fugit eller Tick Tock i Watopia) eller ett eget pass i ERG-läge. Inga race\, gruppåk eller spurter. Fläkt\, två flaskor\, ät något efter ca 45 min. CrossFit kl. 17:00. Ledig dag.
+SUMMARY:Zwift - zon 2 75 min + kort löp (brick)
+DESCRIPTION:Zon 2 enligt säsongsplanen: 140-165 W och puls under ca 140\, pulsen bestämmer. 0-10 min: uppvärmning\, öka lugnt från 110 till 140 W. 10-70 min: 60 min jämnt på 145-160 W. Lägg in 3 x 5 min med hög kadens (95-100 rpm) på samma watt vid min 20\, 40 och 60\, resten 85-90 rpm. 70-75 min: nedvarvning under 120 W. Platt bana (t.ex. Tempus Fugit eller Tick Tock i Watopia) eller ett eget pass i ERG-läge. Inga race\, gruppåk eller spurter. Fläkt\, två flaskor\, ät något efter ca 45 min. CrossFit kl. 17:00. Ledig dag. Direkt efter cykeln: kort brick-löpning 15 min\, se separat händelse 11:15.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261104-1700@hannesassarsson
@@ -474,5 +474,12 @@ DTSTART;TZID=Europe/Stockholm:20261108T100000
 DTEND;TZID=Europe/Stockholm:20261108T110000
 SUMMARY:Vila eller lätt rörelse
 DESCRIPTION:Vilodag efter lördagens långpass. Promenad eller rörlighet går bra. Måndag 9/11 jobb 07:00-17:00. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261104-1115@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261104T111500
+DTEND;TZID=Europe/Stockholm:20261104T113000
+SUMMARY:Löpning - brick 15 min lugnt
+DESCRIPTION:Direkt efter Zwift-passet\, byt så snabbt du kan (skor framme). 15 min lugnt\, puls under ca 150\, platt. De första 3-5 min känns benen konstiga\, det är normalt och just det vi tränar. Ingen fart: målet är att vänja kroppen vid löpning efter cykel inför Jönköping. Hoppa över om du har känningar efter halvmaran. CrossFit kl. 17:00. Ledig dag.
 END:VEVENT
 END:VCALENDAR
