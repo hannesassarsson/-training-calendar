@@ -449,17 +449,17 @@ DESCRIPTION:Zon 2 enligt säsongsplanen: 140-165 W och puls under ca 140\, pulse
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261104-1700@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261104T170000
+DTSTART;TZID=Europe/Stockholm:20261104T164500
 DTEND;TZID=Europe/Stockholm:20261104T180000
-SUMMARY:CrossFit - kontrollerat
-DESCRIPTION:Kör med\, men kontrollerat: teknik och styrka före maxtempo\, ingen all-out-WOD. Morgondagens sweet spot-pass är veckans kvalitetspass. Ledig dag. Tiden är en platshållare\, välj den klass som passar. Efter brickens snabba löpning: kör bara teknik och lätt rörlighet\, eller hoppa över. Torsdagens sweet spot är veckans kvalitetspass.
+SUMMARY:CrossFit - chipper
+DESCRIPTION:Kör med\, men kontrollerat: teknik och styrka före maxtempo\, ingen all-out-WOD. Morgondagens sweet spot-pass är veckans kvalitetspass. Ledig dag. Tiden är en platshållare\, välj den klass som passar. Efter brickens snabba löpning: kör bara teknik och lätt rörlighet\, eller hoppa över. Torsdagens sweet spot är veckans kvalitetspass. GENOMFÖRT 16:45: 800 m löp\, 50 DB STOH 22\,5\, 40 wall balls\, 30 bänkpress 60\, 20 burpee box jump\, 10 bar muscle-up och tillbaka\, 800 m löp. 49 min\, snittpuls 127\, maxpuls 176\, belastning 85. Dagens totala belastning 231\, högsta i datan.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261105-1700@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261105T170000
-DTEND;TZID=Europe/Stockholm:20261105T180000
-SUMMARY:Zwift - sweet spot 3 x 10 min
-DESCRIPTION:Veckans kvalitetspass. FTP 255 W. 0-12 min: uppvärmning 130 -> 190 W med 3 x 1 min hög kadens (100+). 12-50 min: 3 x 10 min sweet spot 225-240 W med 4 min lätt 140-150 W mellan. 50-60 min: nedvarvning. Hårt men hållbart: du ska kunna säga korta meningar. Ät något innan. Efter jobb 08:00-16:00.
+DTEND;TZID=Europe/Stockholm:20261105T174500
+SUMMARY:Zwift - lugnt 45 min (sweet spot struket)
+DESCRIPTION:Sweet spot-passet stryks den här veckan: onsdagen blev tre pass med belastning 231\, och två hårda dagar i rad ska vi undvika. 45 min lugnt i zon 1-2: 130-150 W och puls under ca 135. Eller vila om benen är tunga. Efter jobb 08:00-16:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261106-1745@hannesassarsson
