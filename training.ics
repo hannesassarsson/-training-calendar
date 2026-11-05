@@ -482,4 +482,11 @@ DTEND;TZID=Europe/Stockholm:20261104T114500
 SUMMARY:Löpning - brick 30 min lugnt
 DESCRIPTION:Direkt efter Zwift-passet\, byt så snabbt du kan (skor framme). 30 min lugnt\, puls under ca 150\, platt. De första 3-5 min känns benen konstiga\, det är normalt och just det vi tränar. Ingen fart. Känns benen tunga eller pulsen drar iväg efter 15-20 min: gå hem där\, det räcker gott. Hoppa över om du har känningar efter halvmaran. CrossFit kl. 17:00\, kör det kontrollerat. Ledig dag. GENOMFÖRT 10:25 (9 min växling): 5\,17 km på 24:42 (4:47/km)\, snittpuls 162. Progressivt: 5:08\, 4:59\, 4:47\, 4:46\, 4:14/km. Blev tempo i stället för lugnt.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261106-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261106T120000
+DTEND;TZID=Europe/Stockholm:20261106T123000
+SUMMARY:Löpning - lunchrunda lugnt 25-30 min
+DESCRIPTION:Riktigt lugnt: puls under ca 145\, tempot får bli vad det blir (troligen runt 6:00/km). Kortare och lugnare än dina vanliga lunchrundor\, eftersom lördagens långpass 14-16 km väntar och det är en 10-timmars arbetsdag. Under jobb 07:00-17:00.
+END:VEVENT
 END:VCALENDAR
