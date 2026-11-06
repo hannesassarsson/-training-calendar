@@ -464,16 +464,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261106-1745@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261106T174500
-DTEND;TZID=Europe/Stockholm:20261106T183000
-SUMMARY:Simning - teknik 45 min
-DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Paddlar högst ca 1/3 av distansen. Andra simpasset i veckan: simning är din svagaste gren. Efter jobb 07:00-17:00. Badet stänger 19:30.
+DTEND;TZID=Europe/Stockholm:20261106T184500
+SUMMARY:Zwift - lugnt 45-60 min zon 2
+DESCRIPTION:Ersätter simningen: badet stänger 17:30 på fredagar. 10 min uppvärmning 110-140 W\, sedan jämnt 140-155 W med puls under ca 140\, 5 min nedvarvning. Platt bana\, inga race eller spurter. Lugnt med flit: morgondagens långpass löp 14-16 km är veckans nyckelpass. Efter jobb 07:00-17:00.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261108-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261108T100000
-DTEND;TZID=Europe/Stockholm:20261108T110000
-SUMMARY:Vila eller lätt rörelse
-DESCRIPTION:Vilodag efter lördagens långpass. Promenad eller rörlighet går bra. Måndag 9/11 jobb 07:00-17:00. Ledig dag.
+UID:training-20261108-1100@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261108T110000
+DTEND;TZID=Europe/Stockholm:20261108T114500
+SUMMARY:Simning - lugn teknik 45 min
+DESCRIPTION:Flyttad från fredag (badet stänger 17:30 på fredagar). Veckans andra simpass: simning är svagaste grenen. 200 m insim. 6 x 50 m teknikövning. 3 x 200 m lugn crawl med 30 s vila. 100 m avsim. Lugnt dagen efter långpasset\, simning avlastar benen. Tiden är preliminär: kolla badets söndagstider. Ledig dag. Måndag 9/11 jobb 07:00-17:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261104-1115@hannesassarsson
