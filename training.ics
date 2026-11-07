@@ -371,11 +371,11 @@ SUMMARY:Löpning - halvmara 21\,1 km (planerat 18-19 km)
 DESCRIPTION:Ersätter halvmaran 7 november. Prattempo\, puls under ca 150 första 5 km och under ca 157 totalt (troligen 5:35-5:50/km). Beslut vid km 17-18: känns det riktigt bra\, inga känningar i underben\, fotled eller ljumske och pulsen är under 157\, fortsätt till 21\,1 km. Annars avsluta på 18-19 km\, det är också ett bra pass. Ingen fartökning före km 18. Ta med vätska och energi och ät efter ca 45 och 75 min. Lätt frukost ca 2 h innan. Jämförelse: Helsingborg 5 september 1:56:24. Täppt näsa onsdag kväll: kör bara om det sitter ovanför halsen och du är feberfri. Feber\, ont i halsen\, hosta eller värk i kroppen: vila. Ledig dag mellan jobb torsdag 08:00-18:15 och lördag 07:00-17:00. Pappas födelsedagsfirande på kvällen. GENOMFÖRT 08:42: 21\,13 km på 1:58:48 (5:37/km)\, snittpuls 158. Puls ca 155 första halvan och 158-164 sista 5 km. Jämför Helsingborg 5 sep: 1:56:24 med snittpuls 172.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261107-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261107T100000
-DTEND;TZID=Europe/Stockholm:20261107T113000
+UID:training-20261107-1500@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261107T150000
+DTEND;TZID=Europe/Stockholm:20261107T163000
 SUMMARY:Löpning - lugnt långpass 14-16 km
-DESCRIPTION:Halvmaran sprangs redan 30 oktober\, så detta blir ett lugnt långpass i stället. Prattempo hela vägen\, puls under ca 157\, ingen fartökning. Vätska och lite energi efter ca 60 min. Ledig dag efter jobb fredag 07:00-17:00. Söndag 8 november ledig.
+DESCRIPTION:Halvmaran sprangs redan 30 oktober\, så detta blir ett lugnt långpass i stället. Prattempo hela vägen\, puls under ca 157\, ingen fartökning. Vätska och lite energi efter ca 60 min. Ledig dag efter jobb fredag 07:00-17:00. Söndag 8 november ledig. Flyttad till 15:00. Det skymmer runt 16:15-16:30: ta reflexväst och pannlampa.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261026-1730@hannesassarsson
