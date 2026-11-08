@@ -490,11 +490,18 @@ SUMMARY:Löpning - lunchrunda lugnt 25-30 min
 DESCRIPTION:Riktigt lugnt: puls under ca 145\, tempot får bli vad det blir (troligen runt 6:00/km). Kortare och lugnare än dina vanliga lunchrundor\, eftersom lördagens långpass 14-16 km väntar och det är en 10-timmars arbetsdag. Under jobb 07:00-17:00. INTE GENOMFÖRT: vila i stället inför lördagens långpass.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261109-1745@hannesassarsson
+UID:training-20261109-1745z@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261109T174500
-DTEND;TZID=Europe/Stockholm:20261109T182500
+DTEND;TZID=Europe/Stockholm:20261109T183000
+SUMMARY:Zwift - lugnt 45 min zon 2
+DESCRIPTION:Ersätter måndagens simning. Högst 45 min efter en 10-timmarsdag. 10 min uppvärmning 110-140 W\, 30 min jämnt 140-155 W med puls under ca 140\, 5 min nedvarvning. Platt bana eller eget pass i ERG-läge\, inga race. Efter jobb 07:00-17:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261113-1430@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261113T143000
+DTEND;TZID=Europe/Stockholm:20261113T151000
 SUMMARY:Simning - lugn teknik 40 min
-DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Kort och lugnt efter en lång arbetsdag: simning är svagaste grenen\, så den läggs in först. Hoppa över om du är helt slut. Efter jobb 07:00-17:00. Badet stänger 19:30.
+DESCRIPTION:Flyttad från måndag. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Lugnt efter förmiddagens långpass. Badet stänger 17:30 på fredagar\, kolla öppettiden. Ledig dag. Fest med kompisarna på kvällen.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261111-1800@hannesassarsson
