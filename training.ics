@@ -489,4 +489,53 @@ DTEND;TZID=Europe/Stockholm:20261106T123000
 SUMMARY:Löpning - lunchrunda lugnt 25-30 min
 DESCRIPTION:Riktigt lugnt: puls under ca 145\, tempot får bli vad det blir (troligen runt 6:00/km). Kortare och lugnare än dina vanliga lunchrundor\, eftersom lördagens långpass 14-16 km väntar och det är en 10-timmars arbetsdag. Under jobb 07:00-17:00. INTE GENOMFÖRT: vila i stället inför lördagens långpass.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261109-1745@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261109T174500
+DTEND;TZID=Europe/Stockholm:20261109T182500
+SUMMARY:Simning - lugn teknik 40 min
+DESCRIPTION:200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Kort och lugnt efter en lång arbetsdag: simning är svagaste grenen\, så den läggs in först. Hoppa över om du är helt slut. Efter jobb 07:00-17:00. Badet stänger 19:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261111-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261111T180000
+DTEND;TZID=Europe/Stockholm:20261111T182000
+SUMMARY:Löparstyrka 20 min (hemma)
+DESCRIPTION:Löparstyrka 15-20 min: sidliggande benlyft eller bandgång i sidled 2-3 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up eller bulgarian split squat 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Ingen smärta i knät. Inget pass i övrigt: tredje långa arbetsdagen i rad. Efter jobb 06:45-17:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261112-0930@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261112T093000
+DTEND;TZID=Europe/Stockholm:20261112T101000
+SUMMARY:Löpning - lugn comeback 30 min
+DESCRIPTION:Uppvärmning 5-8 min: rask gång\, benpendlingar\, höftcirklar\, utfall med rotation\, höga knän och hälsparkar. Sedan 30 min lugnt\, puls under ca 145\, kortare och snabbare steg (sikta på ca 170 steg/min). Första passet efter knäkänningen 7/11: platt underlag\, ingen fart. Minsta känning på knäts utsida: gå hem\, det är inget misslyckande. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261112-1500@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261112T150000
+DTEND;TZID=Europe/Stockholm:20261112T155000
+SUMMARY:Simning - simtest (CSS) + teknik
+DESCRIPTION:Simtest enligt säsongsplanen. 300 m lugn insim + 4 x 50 m stegrande. Sedan 400 m crawl på tid\, så jämnt du kan. Vila 5 min (lätt simning). Sedan 200 m på tid. Notera båda tiderna\, de ger dina simzoner. Avsluta med 200 m lugnt. Pausa vid väggen om du måste under 400 m\, notera i så fall det också. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261113-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261113T100000
+DTEND;TZID=Europe/Stockholm:20261113T113000
+SUMMARY:Zwift - långpass 90 min zon 2
+DESCRIPTION:Veckans långpass på cykel. 10 min uppvärmning 110-140 W\, 75 min jämnt på 145-160 W\, puls under ca 140 (pulsen bestämmer)\, 5 min nedvarvning. Platt bana eller eget pass i ERG-läge\, inga race. Två flaskor\, ät något efter ca 45 min. Ledig dag. Fest med kompisarna på kvällen.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261113-1140@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261113T114000
+DTEND;TZID=Europe/Stockholm:20261113T120000
+SUMMARY:Löparstyrka 20 min
+DESCRIPTION:Löparstyrka 15-20 min: sidliggande benlyft eller bandgång i sidled 2-3 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up eller bulgarian split squat 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Ingen smärta i knät. Direkt efter cykeln. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261115-1830@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261115T183000
+DTEND;TZID=Europe/Stockholm:20261115T190000
+SUMMARY:Valfritt: 30 min lugn promenad eller rörlighet
+DESCRIPTION:Ingen träning planerad lördag (jobb 07:30-19:00 dagen efter festen) eller söndag (jobb 08:00-17:30). Känns kroppen pigg söndag kväll: promenad eller lätt rörlighet. Annars vila.
+END:VEVENT
 END:VCALENDAR
