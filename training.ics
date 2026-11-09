@@ -491,10 +491,10 @@ DESCRIPTION:Riktigt lugnt: puls under ca 145\, tempot får bli vad det blir (tro
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261109-1745z@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261109T174500
-DTEND;TZID=Europe/Stockholm:20261109T184500
+DTSTART;TZID=Europe/Stockholm:20261109T173000
+DTEND;TZID=Europe/Stockholm:20261109T182600
 SUMMARY:Zwift - Texaco Hill Tempo (56 min)
-DESCRIPTION:Zwift-passet Texaco Hill Tempo (56 min\, 2/5 effort)\, tempo upp till ca 230 W (90 % av FTP). Kör det som det är i ERG-läge\, inga extra ryck. Om det blir tungt mot slutet: sänk intensiteten till 95 % i Zwift. Alternativ om du vill hålla 45 min: eget pass med 3 x 8 min på 225-235 W och 3 min vila. Readiness 90\, HRV 113 i natt. Tisdag och onsdag är vila/styrka. Efter jobb 07:00-17:00.
+DESCRIPTION:Zwift-passet Texaco Hill Tempo (56 min\, 2/5 effort)\, tempo upp till ca 230 W (90 % av FTP). Kör det som det är i ERG-läge\, inga extra ryck. Om det blir tungt mot slutet: sänk intensiteten till 95 % i Zwift. Alternativ om du vill hålla 45 min: eget pass med 3 x 8 min på 225-235 W och 3 min vila. Readiness 90\, HRV 113 i natt. Tisdag och onsdag är vila/styrka. Efter jobb 07:00-17:00. GENOMFÖRT 17:30: 30\,5 km på 56 min\, snitteffekt 176 W\, NP 190 W\, snittpuls 138\, maxpuls 164\, 20 min i effektzon 4. Kändes inte så jobbigt\, ganska kul.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261113-1430@hannesassarsson
