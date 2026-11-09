@@ -492,9 +492,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261109-1745z@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261109T174500
-DTEND;TZID=Europe/Stockholm:20261109T183000
-SUMMARY:Zwift - sweet spot 3 x 8 min (45 min)
-DESCRIPTION:Veckans kvalitetspass\, max 45 min efter 10-timmarsdagen. FTP 255 W. 0-10 min: uppvärmning 110-160 W\, sista 2 min med 3 x 20 s lite snabbare (ca 200 W). 10-43 min: 3 x 8 min på 225-235 W (88-92 % av FTP)\, 3 min lätt på 130 W mellan. Kadens 85-95. Hårt men kontrollerat: du ska kunna säga korta meningar. 43-45 min: nedvarvning under 120 W. Zwift workout-editor: Warmup 10 min 43-63 %\, 3 x (Steady State 8 min 90 % + Steady State 3 min 51 %)\, Cooldown 2 min 45-35 %. ERG-läge. Känns det tungt redan i första intervallet: kör de två sista på 215-220 W. Readiness 90\, HRV 113 i natt. Tisdag och onsdag är vila/styrka. Efter jobb 07:00-17:00.
+DTEND;TZID=Europe/Stockholm:20261109T184500
+SUMMARY:Zwift - Texaco Hill Tempo (56 min)
+DESCRIPTION:Zwift-passet Texaco Hill Tempo (56 min\, 2/5 effort)\, tempo upp till ca 230 W (90 % av FTP). Kör det som det är i ERG-läge\, inga extra ryck. Om det blir tungt mot slutet: sänk intensiteten till 95 % i Zwift. Alternativ om du vill hålla 45 min: eget pass med 3 x 8 min på 225-235 W och 3 min vila. Readiness 90\, HRV 113 i natt. Tisdag och onsdag är vila/styrka. Efter jobb 07:00-17:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261113-1430@hannesassarsson
