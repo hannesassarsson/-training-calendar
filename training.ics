@@ -499,16 +499,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261113-1430@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261113T143000
-DTEND;TZID=Europe/Stockholm:20261113T151000
-SUMMARY:Simning - lugn teknik 40 min
-DESCRIPTION:Flyttad från måndag. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Lugnt efter förmiddagens långpass. Badet stänger 17:30 på fredagar\, kolla öppettiden. Ledig dag. Fest med kompisarna på kvällen.
+DTEND;TZID=Europe/Stockholm:20261113T152000
+SUMMARY:Simning - simtest (CSS)
+DESCRIPTION:Simtest enligt säsongsplanen. 300 m lugn insim + 4 x 50 m stegrande. 400 m crawl på tid\, så jämnt du kan. Vila 5 min (lätt simning). 200 m på tid. Notera båda tiderna\, de ger dina simzoner. 200 m lugnt avsim. Pausar du vid väggen under 400 m: notera det. Badet stänger 17:30 på fredagar. Ledig dag. Fest på kvällen.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261111-1800@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261111T180000
-DTEND;TZID=Europe/Stockholm:20261111T182000
-SUMMARY:Löparstyrka 20 min (hemma)
-DESCRIPTION:Löparstyrka 15-20 min: sidliggande benlyft eller bandgång i sidled 2-3 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up eller bulgarian split squat 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Ingen smärta i knät. Inget pass i övrigt: tredje långa arbetsdagen i rad. Efter jobb 06:45-17:00.
+UID:training-20261111-1730@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261111T173000
+DTEND;TZID=Europe/Stockholm:20261111T184500
+SUMMARY:CrossFit - pass 1 (knäanpassat)
+DESCRIPTION:AMRAP 15: 100 m sandbag carry\, 10 ring dips\, 20 alt. DB snatch 22\,5/15\, 50 double unders. Vila 5. AMRAP 15: 10 hang power clean 60/40\, 10 STOH 60/40\, 20 DB step-ups singel DB 22\,5. Vila 5. 27-21-15-9-7-3 burpees + rodd kcal. Knäanpassning (första hårda benpasset efter knäkänningen 7/11): byt double unders mot 100 singles eller 1 min rodd\, och kör burpees utan hopp högst upp om knät säger till. Step-ups bara om helt smärtfritt\, annars DB box-stöd utan hopp. Allt annat som skrivet. Ersätter onsdagens löparstyrka. Tiden är en platshållare.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261112-0930@hannesassarsson
@@ -521,8 +521,8 @@ BEGIN:VEVENT
 UID:training-20261112-1500@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261112T150000
 DTEND;TZID=Europe/Stockholm:20261112T155000
-SUMMARY:Simning - simtest (CSS) + teknik
-DESCRIPTION:Simtest enligt säsongsplanen. 300 m lugn insim + 4 x 50 m stegrande. Sedan 400 m crawl på tid\, så jämnt du kan. Vila 5 min (lätt simning). Sedan 200 m på tid. Notera båda tiderna\, de ger dina simzoner. Avsluta med 200 m lugnt. Pausa vid väggen om du måste under 400 m\, notera i så fall det också. Ledig dag.
+SUMMARY:Simning - lugn teknik 45 min
+DESCRIPTION:Lugnt dagen efter CrossFit. 200 m insim. 6 x 50 m teknikövning. 6-8 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Simtestet flyttas till fredag. Ledig dag. Badet stänger 19:30.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261113-1000@hannesassarsson
@@ -534,9 +534,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261113-1140@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261113T114000
-DTEND;TZID=Europe/Stockholm:20261113T120000
-SUMMARY:Löparstyrka 20 min
-DESCRIPTION:Löparstyrka 15-20 min: sidliggande benlyft eller bandgång i sidled 2-3 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up eller bulgarian split squat 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Ingen smärta i knät. Direkt efter cykeln. Ledig dag.
+DTEND;TZID=Europe/Stockholm:20261113T121500
+SUMMARY:Valfritt: CrossFit pass 2\, bara del A + B
+DESCRIPTION:Bara om du vill: A: varannan minut x 8\, 2 power snatch\, inget maxande. B: sälrodd 4 reps x 5. Hoppa över del C (AMRAP) och 4 x 4 min Echo bike: onsdagens pass är veckans hårda konditionspass\, och fredagens cykellångpass är viktigare för 70.3. Ledig dag. Fest på kvällen.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261115-1830@hannesassarsson
@@ -544,12 +544,5 @@ DTSTART;TZID=Europe/Stockholm:20261115T183000
 DTEND;TZID=Europe/Stockholm:20261115T190000
 SUMMARY:Valfritt: 30 min lugn promenad eller rörlighet
 DESCRIPTION:Ingen träning planerad lördag (jobb 07:30-19:00 dagen efter festen) eller söndag (jobb 08:00-17:30). Känns kroppen pigg söndag kväll: promenad eller lätt rörlighet. Annars vila.
-END:VEVENT
-BEGIN:VEVENT
-UID:training-20261110-1845@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261110T184500
-DTEND;TZID=Europe/Stockholm:20261110T192500
-SUMMARY:Simning - lugn teknik 35-40 min
-DESCRIPTION:Lugnt och tekniskt efter en lång arbetsdag. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Inget hårt: dagen efter tempopasset och HRV i nederkant av baslinjen (101). Badet stänger 19:30\, så var i vattnet senast 18:50. Efter jobb 08:00-18:15.
 END:VEVENT
 END:VCALENDAR
