@@ -545,4 +545,11 @@ DTEND;TZID=Europe/Stockholm:20261115T190000
 SUMMARY:Valfritt: 30 min lugn promenad eller rörlighet
 DESCRIPTION:Ingen träning planerad lördag (jobb 07:30-19:00 dagen efter festen) eller söndag (jobb 08:00-17:30). Känns kroppen pigg söndag kväll: promenad eller lätt rörlighet. Annars vila.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261110-1845@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261110T184500
+DTEND;TZID=Europe/Stockholm:20261110T192500
+SUMMARY:Simning - lugn teknik 35-40 min
+DESCRIPTION:Lugnt och tekniskt efter en lång arbetsdag. 200 m insim. 6 x 50 m teknikövning. 4-6 x 100 m lugn crawl med 20-30 s vila. 100 m avsim. Inget hårt: dagen efter tempopasset och HRV i nederkant av baslinjen (101). Badet stänger 19:30\, så var i vattnet senast 18:50. Efter jobb 08:00-18:15.
+END:VEVENT
 END:VCALENDAR
