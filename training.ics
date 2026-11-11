@@ -511,11 +511,11 @@ SUMMARY:CrossFit - pass 1 (knäanpassat)
 DESCRIPTION:AMRAP 15: 100 m sandbag carry\, 10 ring dips\, 20 alt. DB snatch 22\,5/15\, 50 double unders. Vila 5. AMRAP 15: 10 hang power clean 60/40\, 10 STOH 60/40\, 20 DB step-ups singel DB 22\,5. Vila 5. 27-21-15-9-7-3 burpees + rodd kcal. Knäanpassning (första hårda benpasset efter knäkänningen 7/11): byt double unders mot 100 singles eller 1 min rodd\, och kör burpees utan hopp högst upp om knät säger till. Step-ups bara om helt smärtfritt\, annars DB box-stöd utan hopp. Allt annat som skrivet. Ersätter onsdagens löparstyrka. Tiden är en platshållare. GENOMFÖRT 18:27: 56 min\, belastning 107\, snittpuls 144\, maxpuls 178.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261112-0930@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261112T093000
-DTEND;TZID=Europe/Stockholm:20261112T101000
-SUMMARY:Löpning - lugnt 30 min
-DESCRIPTION:Knärehab och uppvärmning först\, som du gjorde före CrossFit. Sedan 30 min riktigt lugnt: puls under ca 145\, tempot får bli runt 6:00/km. Tisdagens runda gick på ca 5:04/km med puls 153\, alltså för fort för ett lugnt pass. Korta\, snabba steg\, ca 170 steg/min. Dagen efter onsdagens CrossFit (belastning 107)\, så lugnt är rätt. Minsta känning på knäts utsida: gå hem. Ledig dag. Simning 15:00.
+UID:training-20261112-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261112T100000
+DTEND;TZID=Europe/Stockholm:20261112T111500
+SUMMARY:Zwift - race (ersätter löpningen)
+DESCRIPTION:Ett Zwift-race på 30-60 min\, välj en kortare kategori. Ersätter torsdagens löpning. 10-15 min uppvärmning med 3 x 20 s snabbt innan start. Kör hårt\, det är veckans andra hårda pass. Villkor: morgoncheckens HRV inom baslinjen och readiness över ca 60\, annars 45 min lugnt i zon 2 i stället. Simningen 15:00 blir helt lugn. Fredagens långpass ska vara lugnt: inget nytt race. Tiden är en platshållare\, välj det race som passar. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261112-1500@hannesassarsson
