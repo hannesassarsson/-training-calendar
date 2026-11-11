@@ -514,8 +514,8 @@ BEGIN:VEVENT
 UID:training-20261112-0930@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261112T093000
 DTEND;TZID=Europe/Stockholm:20261112T101000
-SUMMARY:Löpning - lugn comeback 30 min
-DESCRIPTION:Uppvärmning 5-8 min: rask gång\, benpendlingar\, höftcirklar\, utfall med rotation\, höga knän och hälsparkar. Sedan 30 min lugnt\, puls under ca 145\, kortare och snabbare steg (sikta på ca 170 steg/min). Första passet efter knäkänningen 7/11: platt underlag\, ingen fart. Minsta känning på knäts utsida: gå hem\, det är inget misslyckande. Ledig dag.
+SUMMARY:Löpning - lugnt 30 min
+DESCRIPTION:Knärehab och uppvärmning först\, som du gjorde före CrossFit. Sedan 30 min riktigt lugnt: puls under ca 145\, tempot får bli runt 6:00/km. Tisdagens runda gick på ca 5:04/km med puls 153\, alltså för fort för ett lugnt pass. Korta\, snabba steg\, ca 170 steg/min. Dagen efter onsdagens CrossFit (belastning 107)\, så lugnt är rätt. Minsta känning på knäts utsida: gå hem. Ledig dag. Simning 15:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261112-1500@hannesassarsson
@@ -544,5 +544,12 @@ DTSTART;TZID=Europe/Stockholm:20261115T183000
 DTEND;TZID=Europe/Stockholm:20261115T190000
 SUMMARY:Valfritt: 30 min lugn promenad eller rörlighet
 DESCRIPTION:Ingen träning planerad lördag (jobb 07:30-19:00 dagen efter festen) eller söndag (jobb 08:00-17:30). Känns kroppen pigg söndag kväll: promenad eller lätt rörlighet. Annars vila.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261110-1201@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261110T120100
+DTEND;TZID=Europe/Stockholm:20261110T122700
+SUMMARY:Löpning - lunchrunda (knätest)
+DESCRIPTION:Oplanerad lunchrunda\, första efter knäkänningen. GENOMFÖRT: 5\,17 km på 26 min (ca 5:04/km)\, snittpuls 153. Under jobb 08:00-18:15.
 END:VEVENT
 END:VCALENDAR
