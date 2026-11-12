@@ -512,10 +512,10 @@ DESCRIPTION:AMRAP 15: 100 m sandbag carry\, 10 ring dips\, 20 alt. DB snatch 22\
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261112-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261112T100000
-DTEND;TZID=Europe/Stockholm:20261112T111500
+DTSTART;TZID=Europe/Stockholm:20261112T094300
+DTEND;TZID=Europe/Stockholm:20261112T102300
 SUMMARY:Zwift - race (ersätter löpningen)
-DESCRIPTION:Ett Zwift-race på 30-60 min\, välj en kortare kategori. Ersätter torsdagens löpning. 10-15 min uppvärmning med 3 x 20 s snabbt innan start. Kör hårt\, det är veckans andra hårda pass. Villkor: morgoncheckens HRV inom baslinjen och readiness över ca 60\, annars 45 min lugnt i zon 2 i stället. Simningen 15:00 blir helt lugn. Fredagens långpass ska vara lugnt: inget nytt race. Tiden är en platshållare\, välj det race som passar. Ledig dag.
+DESCRIPTION:Ett Zwift-race på 30-60 min\, välj en kortare kategori. Ersätter torsdagens löpning. 10-15 min uppvärmning med 3 x 20 s snabbt innan start. Kör hårt\, det är veckans andra hårda pass. Villkor: morgoncheckens HRV inom baslinjen och readiness över ca 60\, annars 45 min lugnt i zon 2 i stället. Simningen 15:00 blir helt lugn. Fredagens långpass ska vara lugnt: inget nytt race. Tiden är en platshållare\, välj det race som passar. Ledig dag. GENOMFÖRT 09:43: Zwift Crit Club Caldera Coaster (D)\, 22\,4 km på 39 min. Snitteffekt 219 W\, NP 232 W (91 % av FTP)\, bästa 20 min 237 W\, snittpuls 163\, maxpuls 179. Högsta snitteffekt och NP hittills.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261112-1500@hannesassarsson
