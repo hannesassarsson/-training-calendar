@@ -501,7 +501,7 @@ UID:training-20261113-1430@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261113T143000
 DTEND;TZID=Europe/Stockholm:20261113T152000
 SUMMARY:Simning - simtest (CSS)
-DESCRIPTION:Simtest enligt säsongsplanen. 300 m lugn insim + 4 x 50 m stegrande. 400 m crawl på tid\, så jämnt du kan. Vila 5 min (lätt simning). 200 m på tid. Notera båda tiderna\, de ger dina simzoner. 200 m lugnt avsim. Pausar du vid väggen under 400 m: notera det. Badet stänger 17:30 på fredagar. Ledig dag. Fest på kvällen.
+DESCRIPTION:Simtest enligt säsongsplanen. 300 m lugn insim + 4 x 50 m stegrande. 400 m crawl på tid\, så jämnt du kan. Vila 5 min (lätt simning). 200 m på tid. Notera båda tiderna\, de ger dina simzoner. 200 m lugnt avsim. Pausar du vid väggen under 400 m: notera det. Badet stänger 17:30 på fredagar. Ledig dag. Fest på kvällen. INTE GENOMFÖRT: ont om tid före festen. Simtestet flyttas till nästa vecka.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261111-1730@hannesassarsson
@@ -527,16 +527,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261113-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261113T100000
-DTEND;TZID=Europe/Stockholm:20261113T113000
-SUMMARY:Zwift - långpass 90 min zon 2
-DESCRIPTION:Veckans långpass på cykel. 10 min uppvärmning 110-140 W\, 75 min jämnt på 145-160 W\, puls under ca 140 (pulsen bestämmer)\, 5 min nedvarvning. Platt bana eller eget pass i ERG-läge\, inga race. Två flaskor\, ät något efter ca 45 min. Ledig dag. Fest med kompisarna på kvällen.
+DTEND;TZID=Europe/Stockholm:20261113T110000
+SUMMARY:Valfritt: Zwift lugnt 45-60 min zon 2
+DESCRIPTION:Bara om du hinner\, efter morgonens CrossFit. 10 min uppvärmning\, sedan jämnt 140-155 W med puls under ca 140\, 5 min nedvarvning. Inga race. Hinner du inte är det helt okej: veckan har redan tempo\, CrossFit x 2 och race. Ledig dag. Fest på kvällen.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261113-1140@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261113T114000
 DTEND;TZID=Europe/Stockholm:20261113T121500
 SUMMARY:Valfritt: CrossFit pass 2\, bara del A + B
-DESCRIPTION:Bara om du vill: A: varannan minut x 8\, 2 power snatch\, inget maxande. B: sälrodd 4 reps x 5. Hoppa över del C (AMRAP) och 4 x 4 min Echo bike: onsdagens pass är veckans hårda konditionspass\, och fredagens cykellångpass är viktigare för 70.3. Ledig dag. Fest på kvällen.
+DESCRIPTION:Bara om du vill: A: varannan minut x 8\, 2 power snatch\, inget maxande. B: sälrodd 4 reps x 5. Hoppa över del C (AMRAP) och 4 x 4 min Echo bike: onsdagens pass är veckans hårda konditionspass\, och fredagens cykellångpass är viktigare för 70.3. Ledig dag. Fest på kvällen. GENOMFÖRT på morgonen\, utan pulsband\, så inget registrerat i Garmin.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261115-1830@hannesassarsson
