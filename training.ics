@@ -562,23 +562,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261116-1815@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261116T181500
-DTEND;TZID=Europe/Stockholm:20261116T184500
-SUMMARY:Zwift - lugnt 30 min (tillbaka efter halsont)
-DESCRIPTION:Lugn start efter halsontet. 5 min uppvärmning\, 20 min jämnt 140-155 W med puls under ca 140\, 5 min nedvarvning. Morgoncheckens vilopuls bör vara tillbaka nära 42. Feber eller sjukkänsla: vila. Efter jobb 07:30-17:30.
+DTEND;TZID=Europe/Stockholm:20261116T190000
+SUMMARY:Zwift - zon 2 45 min
+DESCRIPTION:Vanligt zon 2-pass. 10 min uppvärmning 110-140 W\, 30 min jämnt 145-160 W med puls under ca 140\, 5 min nedvarvning. 45 min är taket efter en 10-timmarsdag. Feber eller sjukkänsla: vila. Efter jobb 07:30-17:30.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261116-1850@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261116T185000
-DTEND;TZID=Europe/Stockholm:20261116T190500
+UID:training-20261116-1905@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261116T190500
+DTEND;TZID=Europe/Stockholm:20261116T192000
 SUMMARY:Löparstyrka 15 min
 DESCRIPTION:Löparstyrka 15 min: sidliggande benlyft eller bandgång i sidled 2 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Direkt efter cykeln\, hemma. Efter jobb 07:30-17:30.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261117-0930@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261117T093000
-DTEND;TZID=Europe/Stockholm:20261117T101500
-SUMMARY:Löpning - lugnt 35 min
-DESCRIPTION:Uppvärmning och knärehab 5-8 min först: rask gång\, benpendlingar\, höftcirklar\, utfall med rotation\, höga knän och hälsparkar. Sedan 35 min lugnt\, puls under ca 145\, korta snabba steg (ca 170 steg/min). Andra veckan efter knäkänningen: bygg försiktigt. Minsta känning på knäts utsida: gå hem. Ledig dag. Simtest 15:00.
+DTEND;TZID=Europe/Stockholm:20261117T102000
+SUMMARY:Löpning - lugnt 40 min
+DESCRIPTION:Uppvärmning och knärehab 5-8 min först: rask gång\, benpendlingar\, höftcirklar\, utfall med rotation\, höga knän och hälsparkar. Sedan 40 min lugnt\, puls under ca 145\, korta snabba steg (ca 170 steg/min). Minsta känning på knäts utsida: gå hem. Ledig dag. Simtest 15:00.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261117-1500@hannesassarsson
@@ -611,14 +611,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261121-1430@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261121T143000
-DTEND;TZID=Europe/Stockholm:20261121T152000
-SUMMARY:Löpning - lugnt 50 min
-DESCRIPTION:Uppvärmning och knärehab 5-8 min först: rask gång\, benpendlingar\, höftcirklar\, utfall med rotation\, höga knän och hälsparkar. Sedan 50 min lugnt\, puls under ca 150\, korta snabba steg. Veckans långa löprunda\, försiktig ökning efter knät (35 min i tisdags). Minsta känning på knäts utsida: gå hem. Efter jobb 06:45-12:45.
+DTEND;TZID=Europe/Stockholm:20261121T154500
+SUMMARY:Löpning - långpass 65 min lugnt (ca 11 km)
+DESCRIPTION:Uppvärmning och knärehab 5-8 min först: rask gång\, benpendlingar\, höftcirklar\, utfall med rotation\, höga knän och hälsparkar. Sedan 65 min lugnt\, puls under ca 150 och under 157 sista 15 min\, korta snabba steg. Veckans långpass löp. Ökning efter knät: från 40 min i tisdags. Ingen fartökning. Minsta känning på knäts utsida: gå hem\, det är inget misslyckande. Vätska om du vill. Efter jobb 06:45-12:45.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261121-1525@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261121T152500
-DTEND;TZID=Europe/Stockholm:20261121T154000
+UID:training-20261121-1550@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261121T155000
+DTEND;TZID=Europe/Stockholm:20261121T160500
 SUMMARY:Löparstyrka 15 min
 DESCRIPTION:Löparstyrka 15 min: sidliggande benlyft eller bandgång i sidled 2 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Direkt efter löpningen. Efter jobb 06:45-12:45.
 END:VEVENT
