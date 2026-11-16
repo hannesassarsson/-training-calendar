@@ -563,8 +563,8 @@ BEGIN:VEVENT
 UID:training-20261116-2000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261116T200000
 DTEND;TZID=Europe/Stockholm:20261116T204500
-SUMMARY:Zwift - zon 2 45 min
-DESCRIPTION:Flyttat till kvällen eftersom Ludvig kommer. Vanligt zon 2-pass. 10 min uppvärmning 110-140 W\, 30 min jämnt 145-160 W med puls under ca 140\, 5 min nedvarvning. 45 min är taket efter en 10-timmarsdag. Blir kvällen för sen eller känns du sliten: stryk passet\, det är veckans minst viktiga. Tisdag ledig. Efter jobb 07:30-17:30.
+SUMMARY:Zwift - sweet spot 3 x 6 min (45 min)
+DESCRIPTION:Uppgraderat från zon 2 efter fina återhämtningssiffror (beredskap 89\, sömn 91\, vilopuls 43) och tre vilodagar. Zwift-filen "Coach OS – Sweet spot 3 x 6 min (45 min)" ligger under Custom Workouts. 10 min uppvärmning\, 3 x 6 min på ca 230 W (225-240 W) med 3 min lugnt emellan\, 4 min zon 2 och nedvarvning. Kontrollerat\, inget race. Ont i halsen eller seg kropp: kör zon 2-passet i stället. 45 min är taket efter 10-timmarsdagen. Efter jobb 07:30-17:30.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261116-2050@hannesassarsson
