@@ -562,14 +562,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261116-2000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261116T200000
-DTEND;TZID=Europe/Stockholm:20261116T204500
-SUMMARY:Zwift - sweet spot 3 x 6 min (45 min)
-DESCRIPTION:Uppgraderat från zon 2 efter fina återhämtningssiffror (beredskap 89\, sömn 91\, vilopuls 43) och tre vilodagar. Zwift-filen "Coach OS – Sweet spot 3 x 6 min (45 min)" ligger under Custom Workouts. 10 min uppvärmning\, 3 x 6 min på ca 230 W (225-240 W) med 3 min lugnt emellan\, 4 min zon 2 och nedvarvning. Kontrollerat\, inget race. Ont i halsen eller seg kropp: kör zon 2-passet i stället. 45 min är taket efter 10-timmarsdagen. Efter jobb 07:30-17:30.
+DTEND;TZID=Europe/Stockholm:20261116T210000
+SUMMARY:Zwift - sweet spot 3 x 8 min (60 min)
+DESCRIPTION:Uppgraderat från zon 2 45 min efter fina återhämtningssiffror (beredskap 89\, sömn 91\, vilopuls 43) och tre vilodagar. Zwift-filen "Coach OS – Sweet spot 3 x 8 min (60 min)" ligger under Custom Workouts. 10 min uppvärmning\, 3 x 8 min på ca 230 W (225-240 W) med 4 min lugnt emellan\, 10 min zon 2 och 8 min nedvarvning. Kontrollerat\, inget race. Ont i halsen eller seg kropp: kör zon 2-passet i stället. Längre än vanligt efter en 10-timmarsdag\, så prioritera sömnen efteråt. Efter jobb 07:30-17:30.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261116-2050@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261116T205000
-DTEND;TZID=Europe/Stockholm:20261116T210500
+DTSTART;TZID=Europe/Stockholm:20261116T210500
+DTEND;TZID=Europe/Stockholm:20261116T212000
 SUMMARY:Löparstyrka 15 min (valfri)
 DESCRIPTION:Valfri i kväll. Löparstyrka 15 min: sidliggande benlyft eller bandgång i sidled 2 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Hoppa över den om klockan blir mycket\, onsdagens CrossFit ger styrka. Efter jobb 07:30-17:30.
 END:VEVENT
