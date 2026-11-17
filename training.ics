@@ -622,4 +622,11 @@ DTEND;TZID=Europe/Stockholm:20261118T114500
 SUMMARY:Simstyrka på land 10 min
 DESCRIPTION:Gummiband: simdrag framåtböjd med raka armar 3 x 20\, rak arm-pulldown 3 x 15\, utåtrotation axel 2 x 15/sida\, Y-T-W-lyft 2 x 10. Direkt efter cykeln. Ledig dag.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261117-1700@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261117T170000
+DTEND;TZID=Europe/Stockholm:20261117T174500
+SUMMARY:Zwift - återhämtning 30-45 min
+DESCRIPTION:Riktigt lätt: 120-140 W\, puls under ca 130\, kadens 90+. Platt bana eller fri åkning\, inga race eller gruppåk. Spolar ur benen efter morgonens löpning. Imorgon långpass 90 min + CrossFit\, så inget mer än lätt idag. Ledig dag.
+END:VEVENT
 END:VCALENDAR
