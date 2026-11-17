@@ -583,9 +583,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261118-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261118T100000
-DTEND;TZID=Europe/Stockholm:20261118T113000
-SUMMARY:Zwift - långpass 90 min zon 2
-DESCRIPTION:Veckans cykellångpass. 10 min uppvärmning 110-140 W\, 75 min jämnt 145-160 W med puls under ca 140 (pulsen bestämmer)\, 5 min nedvarvning. Platt bana eller eget pass i ERG-läge\, inga race. Två flaskor\, ät något efter ca 45 min. Håll det verkligen lugnt\, CrossFit 16:00 samma dag. Ledig dag.
+DTEND;TZID=Europe/Stockholm:20261118T120000
+SUMMARY:Zwift - långpass 2 h zon 2
+DESCRIPTION:Veckans cykellångpass\, förlängt med tisdagens inställda pass. 10 min uppvärmning 110-140 W\, 1 h 45 min jämnt 145-160 W med puls under ca 140 (pulsen bestämmer)\, 5 min nedvarvning. Platt bana eller eget pass i ERG-läge\, inga race eller gruppåk. Två flaskor\, ät något var 30-45 min (t.ex. banan\, bar\, sportdryck). Längsta cykelpasset hittills: lugnt hela vägen så du har ben kvar till CrossFit 16:00. Ät en ordentlig lunch mellan passen. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261118-1600@hannesassarsson
@@ -627,6 +627,6 @@ UID:training-20261117-1700@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261117T170000
 DTEND;TZID=Europe/Stockholm:20261117T180000
 SUMMARY:Zwift - återhämtning 60 min
-DESCRIPTION:Riktigt lätt: 120-140 W\, puls under ca 130\, kadens 90+. Platt bana eller fri åkning\, inga race eller gruppåk. Spolar ur benen efter morgonens löpning. Imorgon långpass 90 min + CrossFit\, så inget mer än lätt idag. Ledig dag.
+DESCRIPTION:Riktigt lätt: 120-140 W\, puls under ca 130\, kadens 90+. Platt bana eller fri åkning\, inga race eller gruppåk. Spolar ur benen efter morgonens löpning. Imorgon långpass 90 min + CrossFit\, så inget mer än lätt idag. Ledig dag. INTE GENOMFÖRT: tiden lades på onsdagens långpass i stället.
 END:VEVENT
 END:VCALENDAR
