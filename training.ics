@@ -625,8 +625,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:training-20261117-1700@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261117T170000
-DTEND;TZID=Europe/Stockholm:20261117T174500
-SUMMARY:Zwift - återhämtning 30-45 min
+DTEND;TZID=Europe/Stockholm:20261117T180000
+SUMMARY:Zwift - återhämtning 60 min
 DESCRIPTION:Riktigt lätt: 120-140 W\, puls under ca 130\, kadens 90+. Platt bana eller fri åkning\, inga race eller gruppåk. Spolar ur benen efter morgonens löpning. Imorgon långpass 90 min + CrossFit\, så inget mer än lätt idag. Ledig dag.
 END:VEVENT
 END:VCALENDAR
