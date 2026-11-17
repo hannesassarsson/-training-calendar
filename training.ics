@@ -584,8 +584,8 @@ BEGIN:VEVENT
 UID:training-20261117-1500@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261117T150000
 DTEND;TZID=Europe/Stockholm:20261117T154500
-SUMMARY:Simning - simtest (CSS)
-DESCRIPTION:Simtest enligt säsongsplanen\, flyttat från förra veckan. 300 m lugn insim + 4 x 50 m stegrande. 400 m crawl på tid\, så jämnt du kan. Vila 5 min (lätt simning). 200 m på tid. Notera båda tiderna\, de ger dina simzoner. 200 m lugnt avsim. Pausar du vid väggen under 400 m: notera det. Ledig dag. Badet stänger 19:30.
+SUMMARY:Simning - veckans simpass 40 min
+DESCRIPTION:Veckans enda simpass\, kör idag eller imorgon onsdag efter långpasset. Inget test\, bara lugnt och tekniskt: 200 m insim. 6 x 50 m teknikövning (gärna med fenor eller dolme). 8 x 50 m lugn crawl med 20-30 s vila. 100 m avsim. Målet är bara att ta sig dit. Simtestet tar vi när det känns okej. Badet stänger 19:30. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261118-1000@hannesassarsson
@@ -621,5 +621,12 @@ DTSTART;TZID=Europe/Stockholm:20261121T155000
 DTEND;TZID=Europe/Stockholm:20261121T160500
 SUMMARY:Löparstyrka 15 min
 DESCRIPTION:Löparstyrka 15 min: sidliggande benlyft eller bandgång i sidled 2 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Direkt efter löpningen. Efter jobb 06:45-12:45.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261118-1135@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261118T113500
+DTEND;TZID=Europe/Stockholm:20261118T114500
+SUMMARY:Simstyrka på land 10 min
+DESCRIPTION:Gummiband: simdrag framåtböjd med raka armar 3 x 20\, rak arm-pulldown 3 x 15\, utåtrotation axel 2 x 15/sida\, Y-T-W-lyft 2 x 10. Direkt efter cykeln. Ledig dag.
 END:VEVENT
 END:VCALENDAR
