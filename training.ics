@@ -629,4 +629,11 @@ DTEND;TZID=Europe/Stockholm:20261117T180000
 SUMMARY:Zwift - återhämtning 60 min
 DESCRIPTION:Riktigt lätt: 120-140 W\, puls under ca 130\, kadens 90+. Platt bana eller fri åkning\, inga race eller gruppåk. Spolar ur benen efter morgonens löpning. Imorgon långpass 90 min + CrossFit\, så inget mer än lätt idag. Ledig dag. INTE GENOMFÖRT: tiden lades på onsdagens långpass i stället.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261120-1200@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261120T120000
+DTEND;TZID=Europe/Stockholm:20261120T122500
+SUMMARY:Valfritt: lunchjogg 20 min mycket lugnt
+DESCRIPTION:Bara om morgoncheckens HRV är tillbaka inom baslinjen och kroppen känns pigg. Kort uppvärmning\, sedan max 20 min riktigt lugnt: puls under ca 140\, ingen fart. Det är en genomrullning inför lördagens långpass\, inget pass att bygga form på. Under jobb 08:00-18:15.
+END:VEVENT
 END:VCALENDAR
