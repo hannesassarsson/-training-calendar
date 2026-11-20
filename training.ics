@@ -633,7 +633,7 @@ BEGIN:VEVENT
 UID:training-20261120-1200@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261120T120000
 DTEND;TZID=Europe/Stockholm:20261120T123000
-SUMMARY:Valfritt: lunchrunda 5 km lugnt
-DESCRIPTION:Bara om morgoncheckens HRV är tillbaka inom baslinjen och kroppen känns pigg. Den vanliga 5 km-slingan på ca 30 min\, alltså ca 6:00/km: puls under ca 145\, ingen fart. Genomrullning inför lördagens långpass. Under jobb 08:00-18:15.
+SUMMARY:Lunchpromenad
+DESCRIPTION:Promenad i stället för lunchrunda. Vila inför lördagens långpass. Under jobb 08:00-18:15.
 END:VEVENT
 END:VCALENDAR
