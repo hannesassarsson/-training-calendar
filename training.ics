@@ -689,8 +689,8 @@ BEGIN:VEVENT
 UID:training-20261128-1000@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261128T100000
 DTEND;TZID=Europe/Stockholm:20261128T110000
-SUMMARY:Styrka - CrossFit eller eget styrkepass
-DESCRIPTION:Veckans styrkepass. Välj CrossFit-klass eller eget pass med fokus på ben\, bål och överkropp (t.ex. knäböj\, marklyft\, rodd\, press\, utfall\, bålövningar)\, 45-60 min. Kontrollerat\, inga max-hopp för knät. Ledig dag. Restaurang med Melle och Korre kl. 18.
+SUMMARY:Valfritt: eget styrkepass 30-40 min
+DESCRIPTION:Valfritt eftersom CrossFit flyttades till onsdag. Lättare eget styrkepass: knäböj\, marklyft\, rodd\, press och bål\, 30-40 min\, inte till utmattning. Eller vila: söndagens långpass löp är viktigare. Ledig dag. Restaurang med Melle och Korre kl. 18.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261129-1100@hannesassarsson
@@ -705,5 +705,12 @@ DTSTART;TZID=Europe/Stockholm:20261129T122000
 DTEND;TZID=Europe/Stockholm:20261129T123500
 SUMMARY:Löparstyrka 15 min
 DESCRIPTION:Löparstyrka 15 min: sidliggande benlyft eller bandgång i sidled 2 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Direkt efter löpningen. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261125-1800@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261125T180000
+DTEND;TZID=Europe/Stockholm:20261125T190000
+SUMMARY:CrossFit med kompisarna
+DESCRIPTION:Veckans styrka/CrossFit\, efter en 10-timmarsdag. Kör med kompisarna och ha kul\, men kontrollerat: inga max-lyft och inga max-hopp för knät. Ät något efter jobbet innan. Torsdag 10-timmarsdag och vila. Tiden är en platshållare. Efter jobb 07:00-17:00.
 END:VEVENT
 END:VCALENDAR
