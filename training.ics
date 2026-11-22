@@ -636,4 +636,74 @@ DTEND;TZID=Europe/Stockholm:20261120T123000
 SUMMARY:Lunchpromenad
 DESCRIPTION:Promenad i stället för lunchrunda. Vila inför lördagens långpass. Under jobb 08:00-18:15.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261123-0930@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261123T093000
+DTEND;TZID=Europe/Stockholm:20261123T101500
+SUMMARY:Löpning - lugnt 35 min
+DESCRIPTION:Uppvärmning och knärehab 5-8 min först: rask gång\, benpendlingar\, höftcirklar\, utfall med rotation\, höga knän och hälsparkar. Sedan 35 min riktigt lugnt: puls under ca 145\, tempot får bli runt 6:00/km\, korta snabba steg (ca 170 steg/min). Förra veckans två löppass låg nästan helt i zon 3\, så den här gången ska det kännas för långsamt. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261123-1020@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261123T102000
+DTEND;TZID=Europe/Stockholm:20261123T103500
+SUMMARY:Löparstyrka 15 min
+DESCRIPTION:Löparstyrka 15 min: sidliggande benlyft eller bandgång i sidled 2 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Direkt efter löpningen. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261123-1500@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261123T150000
+DTEND;TZID=Europe/Stockholm:20261123T154000
+SUMMARY:Simning - veckans simpass 40 min
+DESCRIPTION:Veckans simpass\, nu på måndagar som fast simdag. 200 m insim. 6 x 50 m teknikövning (gärna fenor eller dolme). 6-8 x 50 m lugn crawl med 20-30 s vila\, avsluta med 1 x 200 m lugn crawl i ett sträck om det känns okej. 100 m avsim. Inget prestationskrav. Badet stänger 19:30. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261124-1730@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261124T173000
+DTEND;TZID=Europe/Stockholm:20261124T183000
+SUMMARY:Zwift - zon 2 60 min
+DESCRIPTION:Zwift-fil: Coach OS - Zon 2 60 min. 10 min uppvärmning 110-140 W\, 45 min jämnt 145-160 W med puls under ca 140\, 5 min nedvarvning. Inga race. Efter jobb 08:00-16:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261124-1835@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261124T183500
+DTEND;TZID=Europe/Stockholm:20261124T184500
+SUMMARY:Simstyrka 10 min
+DESCRIPTION:Simstyrka 10 min med gummiband: simdrag framåtböjd med raka armar 3 x 20\, rak arm-pulldown 3 x 15\, utåtrotation axel 2 x 15/sida\, Y-T-W-lyft 2 x 10. Direkt efter cykeln. Efter jobb 08:00-16:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261127-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261127T100000
+DTEND;TZID=Europe/Stockholm:20261127T113000
+SUMMARY:Zwift - långpass 90 min zon 2
+DESCRIPTION:Zwift-fil: Coach OS - Långpass 90 min zon 2. 10 min uppvärmning 110-140 W\, 75 min jämnt 145-160 W med puls under ca 140\, 5 min nedvarvning. Två flaskor\, ät efter ca 45 min. Ledig dag efter två 10-timmarsdagar: lugnt hela vägen.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261127-1135@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261127T113500
+DTEND;TZID=Europe/Stockholm:20261127T114500
+SUMMARY:Simstyrka 10 min
+DESCRIPTION:Simstyrka 10 min med gummiband: simdrag framåtböjd med raka armar 3 x 20\, rak arm-pulldown 3 x 15\, utåtrotation axel 2 x 15/sida\, Y-T-W-lyft 2 x 10. Direkt efter cykeln. Ledig dag.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261128-1000@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261128T100000
+DTEND;TZID=Europe/Stockholm:20261128T110000
+SUMMARY:Styrka - CrossFit eller eget styrkepass
+DESCRIPTION:Veckans styrkepass. Välj CrossFit-klass eller eget pass med fokus på ben\, bål och överkropp (t.ex. knäböj\, marklyft\, rodd\, press\, utfall\, bålövningar)\, 45-60 min. Kontrollerat\, inga max-hopp för knät. Ledig dag. Restaurang med Melle och Korre kl. 18.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261129-1100@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261129T110000
+DTEND;TZID=Europe/Stockholm:20261129T121500
+SUMMARY:Löpning - långpass 75 min lugnt (ca 13 km)
+DESCRIPTION:Uppvärmning och knärehab 5-8 min först: rask gång\, benpendlingar\, höftcirklar\, utfall med rotation\, höga knän och hälsparkar. Sedan 75 min lugnt: puls under ca 150 hela vägen\, korta snabba steg. Förra lördagens 14 km gick med snittpuls 154 och nästan ingen tid i zon 1-2\, så målet idag är att hålla pulsen nere även om tempot blir runt 5:50-6:00/km. Minsta känning på knäts utsida: gå hem. Dagen efter restaurangkvällen: drick ordentligt på morgonen. Ledig dag. Måndag 30/11 jobb 07:30-17:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261129-1220@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261129T122000
+DTEND;TZID=Europe/Stockholm:20261129T123500
+SUMMARY:Löparstyrka 15 min
+DESCRIPTION:Löparstyrka 15 min: sidliggande benlyft eller bandgång i sidled 2 x 15/sida\, höftlyft på ett ben 3 x 10/sida\, step-up 3 x 8/sida\, enbens-RDL 3 x 8/sida\, tåhävningar på ett ben 2 x 15/sida\, sidoplanka 2 x 30-45 s/sida. Direkt efter löpningen. Ledig dag.
+END:VEVENT
 END:VCALENDAR
