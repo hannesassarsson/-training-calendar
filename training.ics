@@ -661,8 +661,8 @@ BEGIN:VEVENT
 UID:training-20261124-1730@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261124T173000
 DTEND;TZID=Europe/Stockholm:20261124T183000
-SUMMARY:Zwift - zon 2 60 min
-DESCRIPTION:Zwift-fil: Coach OS - Zon 2 60 min. 10 min uppvärmning 110-140 W\, 45 min jämnt 145-160 W med puls under ca 140\, 5 min nedvarvning. Inga race. Efter jobb 08:00-16:30.
+SUMMARY:Zwift - sweet spot 3 x 10 min (60 min)
+DESCRIPTION:Veckans kvalitetspass på cykeln. Zwift-fil: Coach OS - Sweet spot 3 x 10 min. FTP 255 W. 10 min uppvärmning 110-160 W med 3 x 20 s lite snabbare. 3 x 10 min på 225-235 W (88-92 %)\, 4 min lätt på 130 W mellan. Kadens 85-95. 7 min nedvarvning. Hårt men kontrollerat: korta meningar ska gå. Känns första intervallet för tungt: kör resten på 215-220 W. Efter jobb 08:00-16:30. Ät något innan.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261124-1835@hannesassarsson
