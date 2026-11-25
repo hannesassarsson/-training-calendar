@@ -711,6 +711,13 @@ UID:training-20261125-1800@hannesassarsson
 DTSTART;TZID=Europe/Stockholm:20261125T180000
 DTEND;TZID=Europe/Stockholm:20261125T190000
 SUMMARY:CrossFit med kompisarna
-DESCRIPTION:Veckans styrka/CrossFit\, efter en 10-timmarsdag. Kör med kompisarna och ha kul\, men kontrollerat: inga max-lyft och inga max-hopp för knät. Ät något efter jobbet innan. Torsdag 10-timmarsdag och vila. Tiden är en platshållare. Efter jobb 07:00-17:00.
+DESCRIPTION:Veckans styrka/CrossFit\, efter en 10-timmarsdag. Kör med kompisarna och ha kul\, men kontrollerat: inga max-lyft och inga max-hopp för knät. Ät något efter jobbet innan. Torsdag 10-timmarsdag och vila. Tiden är en platshållare. Efter jobb 07:00-17:00. GENOMFÖRT 18:40: 63 min\, belastning 150\, snittpuls 151.
+END:VEVENT
+BEGIN:VEVENT
+UID:training-20261125-1747@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261125T174700
+DTEND;TZID=Europe/Stockholm:20261125T180500
+SUMMARY:Löpning - Löpband
+DESCRIPTION:Oplanerat pass. GENOMFÖRT: 3\,19 km på 18 min (km 1-3 ca 4:31/km på löpband)\, snittpuls 146. Uppvärmning före CrossFit.
 END:VEVENT
 END:VCALENDAR
