@@ -720,4 +720,11 @@ DTEND;TZID=Europe/Stockholm:20261125T180500
 SUMMARY:Löpning - Löpband
 DESCRIPTION:Oplanerat pass. GENOMFÖRT: 3\,19 km på 18 min (km 1-3 ca 4:31/km på löpband)\, snittpuls 146. Uppvärmning före CrossFit.
 END:VEVENT
+BEGIN:VEVENT
+UID:training-20261127-1644@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261127T164400
+DTEND;TZID=Europe/Stockholm:20261127T172300
+SUMMARY:Simning - Simbassäng
+DESCRIPTION:Oplanerat pass. GENOMFÖRT 16:44: 1 280 m på 39 min (29 min simtid)\, 2:16/100 m\, snittpuls 125.
+END:VEVENT
 END:VCALENDAR
