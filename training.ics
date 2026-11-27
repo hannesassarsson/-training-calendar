@@ -686,11 +686,11 @@ SUMMARY:Simstyrka 10 min
 DESCRIPTION:Simstyrka 10 min med gummiband: simdrag framåtböjd med raka armar 3 x 20\, rak arm-pulldown 3 x 15\, utåtrotation axel 2 x 15/sida\, Y-T-W-lyft 2 x 10. Direkt efter cykeln. Ledig dag.
 END:VEVENT
 BEGIN:VEVENT
-UID:training-20261128-1000@hannesassarsson
-DTSTART;TZID=Europe/Stockholm:20261128T100000
-DTEND;TZID=Europe/Stockholm:20261128T110000
-SUMMARY:Valfritt: eget styrkepass 30-40 min
-DESCRIPTION:Valfritt eftersom CrossFit flyttades till onsdag. Lättare eget styrkepass: knäböj\, marklyft\, rodd\, press och bål\, 30-40 min\, inte till utmattning. Eller vila: söndagens långpass löp är viktigare. Ledig dag. Restaurang med Melle och Korre kl. 18.
+UID:training-20261128-1530@hannesassarsson
+DTSTART;TZID=Europe/Stockholm:20261128T153000
+DTEND;TZID=Europe/Stockholm:20261128T163000
+SUMMARY:Zwift - lugn zon 2 60 min
+DESCRIPTION:Jakt 07-14. Ät direkt hemma\, tupplur 20 min ca 14:45-15:05\, sedan cykel. 10 min uppvärmning 120-140 W\, 45 min jämnt 145-155 W med puls under ca 140\, 5 min nedvarvning. Lugnt - söndagens långpass löp är viktigare. Restaurang kl. 18.
 END:VEVENT
 BEGIN:VEVENT
 UID:training-20261129-1100@hannesassarsson
